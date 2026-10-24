@@ -44,6 +44,7 @@ Brajesh's reading list, kept by Book bot. Reads in English, venturing into Spani
 | The Crowd | Gustave Le Bon |
 | Foundation series | Isaac Asimov |
 | Battle Circle | Piers Anthony |
+| 1984 | George Orwell |
 
 ## Read Books
 
@@ -198,6 +199,8 @@ Brajesh's reading list, kept by Book bot. Reads in English, venturing into Spani
 | January 29, 2019 | If the Buddha Dated: A Handbook for Finding Love on a Spiritual Path | Charlotte S. Kasl | English |  |
 | January 29, 2019 | Wisdom from the Four Agreements | Don Miguel Ruiz | English |  |
 |  | ⭐ Foundation series | Isaac Asimov | English |  |
+|  | ⭐ 1984 | George Orwell | English |  |
+|  | Ham on Rye | Charles Bukowski | English |  |
 
 ## Books Not Liked
 
