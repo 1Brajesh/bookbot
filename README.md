@@ -4,7 +4,13 @@ Brajesh's reading list, kept by Book bot. Reads in English, venturing into Spani
 
 ## Want to Read
 
-_Nothing yet._
+| # | Title | Author | Notes |
+|---|---|---|---|
+| 1 | Del amor y otros demonios | Gabriel García Márquez | Short, good next step (recommended by Paola) |
+| 2 | Noticia de un secuestro | Gabriel García Márquez | Nonfiction, direct Spanish (recommended by Paola) |
+| 3 | La casa de los espíritus | Isabel Allende | Long but clear (recommended by Paola) |
+| 4 | El amor en los tiempos del cólera | Gabriel García Márquez | Long, winding sentences (recommended by Paola) |
+| 5 | Ensayo sobre la ceguera | José Saramago | Paola's favorite; hardest, save for last (recommended by Paola) |
 
 ## Favorite Books
 
