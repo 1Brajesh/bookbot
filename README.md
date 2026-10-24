@@ -26,28 +26,43 @@ Brajesh's reading list, kept by Book bot. Reads in English, venturing into Spani
 
 ## Favorite Books
 
-_Nothing yet._
+| Title | Author |
+|---|---|
+| Radical Honesty: How to Transform Your Life by Telling the Truth | Brad Blanton |
+| Never Split the Difference: Negotiating as If Your Life Depended on It | Chris Voss, Tahl Raz |
+| Notes of a Dirty Old Man | Charles Bukowski |
+| Of Mice and Men | John Steinbeck |
+| Be Heard Now! | Lee Glickstein |
+| Healing Back Pain: The Mind-Body Connection | John E. Sarno |
+| The Old Man and the Sea | Ernest Hemingway |
+| The White Tiger | Aravind Adiga |
+| The Drunkard's Walk: How Randomness Rules Our Lives | Leonard Mlodinow |
+| The Wisdom of Insecurity | Alan Watts |
+| Thinking, Fast and Slow | Daniel Kahneman |
+| Our Man in Havana | Graham Greene |
+| Brave New World | Aldous Huxley |
+| The Crowd | Gustave Le Bon |
 
 ## Read Books
 
 | Date | Title | Author | Language | Notes |
 |---|---|---|---|---|
 | 2026 | Tusa y Traga | Paola Bernal León | Spanish | Ebook (2026) on grief, heartbreak, and self-love. By a friend. A stretch in Spanish, read on Kindle over about two months. |
-| September 14, 2025 | The Crowd | Gustave Le Bon | English |  |
-| May 5, 2024 | Brave New World | Aldous Huxley | English |  |
+| September 14, 2025 | ⭐ The Crowd | Gustave Le Bon | English |  |
+| May 5, 2024 | ⭐ Brave New World | Aldous Huxley | English |  |
 | April 19, 2024 | How to Solve All Your Money Problems Forever: Creating a Positive Flow of Money Into Your Life | Victor Boc | English |  |
 | January 25, 2024 | Factotum | Charles Bukowski | English |  |
 | November 15, 2023 | Battle Circle | Piers Anthony | English |  |
 | October 26, 2023 | The Titan's Curse (Percy Jackson and the Olympians, Book 3) | Rick Riordan | English |  |
 | October 19, 2023 | The Story of My Life | Giacomo Casanova | English |  |
-| August 26, 2023 | Radical Honesty: How to Transform Your Life by Telling the Truth | Brad Blanton | English |  |
+| August 26, 2023 | ⭐ Radical Honesty: How to Transform Your Life by Telling the Truth | Brad Blanton | English |  |
 | August 26, 2023 | The Bhagavad Gita: A Walkthrough for Westerners | Jack Hawley | English |  |
 | July 21, 2023 | Fear of Flying | Erica Jong | English |  |
 | June 15, 2023 | Middlesex | Jeffrey Eugenides | English |  |
 | June 15, 2023 | Fanny Hill: Or, Memoirs of a Woman of Pleasure | John Cleland | English |  |
 | June 15, 2023 | Sputnik Sweetheart | Haruki Murakami | English |  |
 | June 15, 2023 | The Sexual Life of Catherine M. | Catherine Millet | English |  |
-| June 15, 2023 | Our Man in Havana | Graham Greene | English |  |
+| June 15, 2023 | ⭐ Our Man in Havana | Graham Greene | English |  |
 | June 15, 2023 | The End of the Affair | Graham Greene | English |  |
 | June 15, 2023 | Giovanni's Room | James Baldwin | English |  |
 | June 15, 2023 | Delta of Venus | Anaïs Nin | English |  |
@@ -63,16 +78,16 @@ _Nothing yet._
 | November 8, 2022 | The Game: Penetrating the Secret Society of Pickup Artists | Neil Strauss | English |  |
 | November 8, 2022 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | English |  |
 | October 12, 2022 | 1001 Smartest Things Ever Said |  | English |  |
-| September 7, 2022 | Thinking, Fast and Slow | Daniel Kahneman | English |  |
+| September 7, 2022 | ⭐ Thinking, Fast and Slow | Daniel Kahneman | English |  |
 | August 21, 2022 | Split-Second Persuasion: The Ancient Art and New Science of Changing Minds | Kevin Dutton | English |  |
 | March 22, 2022 | Stumbling on Happiness | Daniel Gilbert | English |  |
 | March 22, 2022 | How to Become a Rainmaker: The Rules for Getting and Keeping Customers and Clients | Jeffrey J. Fox | English |  |
 | March 22, 2022 | Start with No: The Negotiating Tools that the Pros Don't Want You to Know | Jim Camp | English |  |
 | March 6, 2022 | Strangers to Ourselves: Discovering the Adaptive Unconscious | Timothy D. Wilson | English |  |
-| January 16, 2022 | The Wisdom of Insecurity | Alan Watts | English |  |
+| January 16, 2022 | ⭐ The Wisdom of Insecurity | Alan Watts | English |  |
 | December 17, 2021 | Freakonomics: A Rogue Economist Explores the Hidden Side of Everything | Steven D. Levitt, Stephen J. Dubner | English |  |
 | November 26, 2021 | The Black Swan: The Impact of the Highly Improbable | Nassim Nicholas Taleb | English |  |
-| October 20, 2021 | Never Split the Difference: Negotiating as If Your Life Depended on It | Chris Voss, Tahl Raz | English |  |
+| October 20, 2021 | ⭐ Never Split the Difference: Negotiating as If Your Life Depended on It | Chris Voss, Tahl Raz | English |  |
 | October 8, 2021 | The Power of Moments: Why Certain Experiences Have Extraordinary Impact | Chip Heath, Dan Heath | English |  |
 | October 8, 2021 | Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days | Jake Knapp, John Zeratsky, Braden Kowitz | English |  |
 | October 4, 2021 | Yes!: 50 Scientifically Proven Ways to Be Persuasive | Noah J. Goldstein, Steve J. Martin, Robert Cialdini | English |  |
@@ -84,7 +99,7 @@ _Nothing yet._
 | April 20, 2021 | Understanding Global Cultures: Metaphorical Journeys Through 29 Nations, Clusters of Nations, Continents, and Diversity | Martin J. Gannon, Rajnandini K. Pillai | English |  |
 | January 25, 2021 | Dataclysm: Who We Are (When We Think No One's Looking) | Christian Rudder | English |  |
 | December 24, 2020 | The Red Queen: Sex and the Evolution of Human Nature | Matt Ridley | English |  |
-| December 6, 2020 | The Drunkard's Walk: How Randomness Rules Our Lives | Leonard Mlodinow | English |  |
+| December 6, 2020 | ⭐ The Drunkard's Walk: How Randomness Rules Our Lives | Leonard Mlodinow | English |  |
 | December 6, 2020 | The Grand Design | Stephen Hawking, Leonard Mlodinow | English |  |
 | December 6, 2020 | Subliminal: How Your Unconscious Mind Rules Your Behavior | Leonard Mlodinow | English |  |
 | December 6, 2020 | Euclid's Window: The Story of Geometry from Parallel Lines to Hyperspace | Leonard Mlodinow | English |  |
@@ -104,13 +119,13 @@ _Nothing yet._
 | August 1, 2020 | Alice's Adventures in Wonderland | Lewis Carroll | English |  |
 | August 1, 2020 | Putting the Power of Your Subconscious Mind to Work | Joseph Murphy | English |  |
 | August 1, 2020 | The Idiot | Fyodor Dostoevsky | English |  |
-| July 23, 2020 | Of Mice and Men | John Steinbeck | English |  |
+| July 23, 2020 | ⭐ Of Mice and Men | John Steinbeck | English |  |
 | July 23, 2020 | Great Expectations | Charles Dickens | English |  |
 | July 18, 2020 | Crime and Punishment | Fyodor Dostoevsky | English |  |
 | July 18, 2020 | Holy Bible (NLT) | Tyndale | English |  |
 | July 1, 2020 | Sweet Thursday | John Steinbeck | English |  |
 | July 1, 2020 | The Grapes of Wrath | John Steinbeck | English |  |
-| June 29, 2020 | Notes of a Dirty Old Man | Charles Bukowski | English |  |
+| June 29, 2020 | ⭐ Notes of a Dirty Old Man | Charles Bukowski | English |  |
 | June 29, 2020 | Interpreter of Maladies | Jhumpa Lahiri | English |  |
 | June 29, 2020 | The Inheritance of Loss | Kiran Desai | English |  |
 | June 29, 2020 | The God of Small Things | Arundhati Roy | English |  |
@@ -137,8 +152,8 @@ _Nothing yet._
 | May 26, 2020 | The Sirens of Titan | Kurt Vonnegut | English |  |
 | May 23, 2020 | Day of the Oprichnik | Vladimir Sorokin | English |  |
 | May 23, 2020 | Boswell's London Journal, 1762–1763 | James Boswell | English |  |
-| May 23, 2020 | The White Tiger | Aravind Adiga | English |  |
-| May 11, 2020 | The Old Man and the Sea | Ernest Hemingway | English |  |
+| May 23, 2020 | ⭐ The White Tiger | Aravind Adiga | English |  |
+| May 11, 2020 | ⭐ The Old Man and the Sea | Ernest Hemingway | English |  |
 | May 11, 2020 | Slaughterhouse-Five | Kurt Vonnegut | English |  |
 | April 26, 2020 | The Dark Side of the Light Chasers: Reclaiming Your Power, Creativity, Brilliance, and Dreams | Debbie Ford | English |  |
 | April 20, 2020 | Tao Te Ching | Lao Tzu | English |  |
@@ -172,11 +187,11 @@ _Nothing yet._
 | June 30, 2019 | Hypnosis: A Comprehensive Guide | Tad James | English |  |
 | June 30, 2019 | Time Line Therapy and the Basis of Personality | Tad James, Wyatt Woodsmall | English |  |
 | June 3, 2019 | The Structure of Magic I: A Book about Language and Therapy | Richard Bandler, John Grinder | English |  |
-| May 29, 2019 | Healing Back Pain: The Mind-Body Connection | John E. Sarno | English |  |
+| May 29, 2019 | ⭐ Healing Back Pain: The Mind-Body Connection | John E. Sarno | English |  |
 | May 12, 2019 | Neuro-Linguistic Programming for Dummies | Romilla Ready, Kate Burton | English |  |
 | May 12, 2019 | Be the Person You Want to Be: Harness the Power of Neuro-Linguistic Programming to Reach Your Potential | John J. Emerick Jr. | English |  |
 | April 29, 2019 | How to Win Friends and Influence People | Dale Carnegie | English |  |
-| April 27, 2019 | Be Heard Now! | Lee Glickstein | English |  |
+| April 27, 2019 | ⭐ Be Heard Now! | Lee Glickstein | English |  |
 | April 16, 2019 | Nonviolent Communication: A Language of Compassion | Marshall B. Rosenberg | English |  |
 | January 29, 2019 | If the Buddha Dated: A Handbook for Finding Love on a Spiritual Path | Charlotte S. Kasl | English |  |
 | January 29, 2019 | Wisdom from the Four Agreements | Don Miguel Ruiz | English |  |
