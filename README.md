@@ -12,6 +12,14 @@ Brajesh's reading list, kept by Book bot. Reads in English, venturing into Spani
 | 4 | El amor en los tiempos del cólera | Gabriel García Márquez | Long, winding sentences (recommended by Paola) |
 | 5 | Ensayo sobre la ceguera | José Saramago | Paola's favorite; hardest, save for last (recommended by Paola) |
 | 6 | The Quiet American | Graham Greene | Recommended by Book bot |
+| 7 | Cannery Row | John Steinbeck | Recommended by Book bot |
+| 8 | Fooled by Randomness | Nassim Nicholas Taleb | Recommended by Book bot |
+| 9 | The Righteous Mind | Jonathan Haidt | Recommended by Book bot |
+| 10 | Dune | Frank Herbert | Recommended by Book bot |
+| 11 | Influence Is Your Superpower | Zoe Chance | Recommended by Book bot |
+| 12 | Ask the Dust | John Fante | Recommended by Book bot |
+
+Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 
 ### Vocabulary: Del amor y otros demonios
 
@@ -203,6 +211,8 @@ Brajesh's reading list, kept by Book bot. Reads in English, venturing into Spani
 | 150 |  | ⭐ 1984 | George Orwell | English |  |
 | 151 |  | Ham on Rye | Charles Bukowski | English |  |
 | 152 |  | Travels with My Aunt | Graham Greene | English |  |
+| 153 |  | Siddhartha | Hermann Hesse | English |  |
+| 154 |  | Sapiens | Yuval Noah Harari | English |  |
 
 ## Books Not Liked
 
