@@ -14,7 +14,7 @@ _Nothing yet._
 
 | Title | Author | Language | Notes |
 |---|---|---|---|
-| Tusa y Traga | Paola Bernal León | Spanish | Ebook (2026) on grief, heartbreak, and self-love |
+| Tusa y Traga | Paola Bernal León | Spanish | Ebook (2026) on grief, heartbreak, and self-love. By a friend. A stretch in Spanish, read on Kindle over about two months. |
 
 ## Books Not Liked
 
