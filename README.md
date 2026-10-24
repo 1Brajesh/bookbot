@@ -11,6 +11,7 @@ Brajesh's reading list, kept by Book bot. Reads in English, venturing into Spani
 | 3 | La casa de los espíritus | Isabel Allende | Long but clear (recommended by Paola) |
 | 4 | El amor en los tiempos del cólera | Gabriel García Márquez | Long, winding sentences (recommended by Paola) |
 | 5 | Ensayo sobre la ceguera | José Saramago | Paola's favorite; hardest, save for last (recommended by Paola) |
+| 6 | The Quiet American | Graham Greene | Recommended by Book bot |
 
 ### Vocabulary: Del amor y otros demonios
 
