@@ -275,197 +275,196 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 214 | Jan 31, 2016 | Secrets of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks | Arthur Benjamin, Michael Shermer | English |  |
 | 215 | Jan 12, 2016 | Open Her: Activate 7 Masculine Powers to Arouse Your Woman's Love & Desire |  | English |  |
 | 216 | Nov 9, 2015 | Reinventing Organizations | Frederic Laloux | English |  |
-| 217 | Aug 7, 2015 | La Casa de los Espíritus | Isabel Allende | Spanish | Bought 2015; also on Want to Read, so confirm whether it was read |
-| 218 | Aug 7, 2015 | Cuentos de Eva Luna | Isabel Allende | Spanish |  |
-| 219 | Jul 24, 2015 | The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It | Michael E. Gerber | English |  |
-| 220 | Jul 21, 2015 | The Hero with a Thousand Faces | Joseph Campbell | English |  |
-| 221 | Jun 17, 2015 | Gita Govinda of Jayadeva: Love Song of the Dark Lord | Jayadeva (Barbara Stoler Miller, trans.) | English |  |
-| 222 | Feb 27, 2015 | The Inside-Out Revolution | Michael Neill | English |  |
-| 223 | Feb 17, 2015 | Clarity: Clear Mind, Better Performance, Bigger Results | Jamie Smart | English |  |
-| 224 | Dec 3, 2014 | Crónica de una muerte anunciada | Gabriel García Márquez | Spanish |  |
-| 225 | Oct 1, 2014 | The Social Conquest of Earth | Edward O. Wilson | English |  |
-| 226 | Mar 5, 2014 | The Alabaster Girl | Zan Perrion | English |  |
-| 227 | Sep 3, 2013 | Justice Denied: The Journey of a Judge |  | English |  |
-| 228 | Sep 3, 2013 | Time Enough for Love | Robert A. Heinlein | English |  |
-| 229 | Sep 3, 2013 | A House for Mr. Biswas | V. S. Naipaul | English |  |
-| 230 | Jul 29, 2013 | Seeds of Plenty |  | English |  |
-| 231 | Mar 17, 2013 | Dr. Seth's Love Prescription: Overcome Relationship Repetition Syndrome and Find the Love You Deserve | Seth Meyers | English |  |
-| 232 | Jun 7, 2012 | Fables | Jean de La Fontaine | French |  |
-| 233 | May 29, 2012 | Tintin au Congo | Hergé | French |  |
-| 234 | Sep 24, 2011 | Notes from Underground | Fyodor Dostoevsky | English |  |
-| 235 | Sep 24, 2011 | Stalin: A Biography |  | English |  |
-| 236 | Sep 24, 2011 | Leonardo: The Artist and the Man | Serge Bramly | English |  |
-| 237 | Sep 24, 2011 | Lenin: A Biography |  | English |  |
-| 238 | Sep 13, 2011 | Umrao Jan Ada | Mirza Hadi Ruswa | English |  |
-| 239 | Sep 13, 2011 | Fight Club | Chuck Palahniuk | English |  |
-| 240 | Sep 13, 2011 | Forks Over Knives: The Plant-Based Way to Health | Gene Stone (ed.) | English |  |
-| 241 | Sep 6, 2011 | The Spectrum | Dean Ornish | English |  |
-| 242 | Sep 6, 2011 | Prevent and Reverse Heart Disease | Caldwell B. Esselstyn Jr. | English |  |
-| 243 | Aug 14, 2011 | Julius Caesar | William Shakespeare | English |  |
-| 244 | Aug 14, 2011 | The Manual: What Women Want and How to Give It to Them |  | English |  |
-| 245 | Jun 28, 2011 | Napoleon |  | English |  |
-| 246 | Jun 14, 2011 | The Great Mango Book: A Guide with Recipes |  | English |  |
-| 247 | Jun 14, 2011 | Beyond Einstein: The Cosmic Quest for the Theory of the Universe | Michio Kaku | English |  |
-| 248 | May 13, 2011 | John Carter of Mars, Vol. 1: A Princess of Mars / The Gods of Mars | Edgar Rice Burroughs | English |  |
-| 249 | May 13, 2011 | The Moor's Last Sigh | Salman Rushdie | English |  |
-| 250 | Jan 10, 2011 | Memoirs of a Geisha | Arthur Golden | English |  |
-| 251 | Oct 21, 2010 | Mother Teresa: A Complete Authorized Biography | Kathryn Spink | English |  |
-| 252 | Oct 21, 2010 | Say You're One of Them | Uwem Akpan | English |  |
-| 253 | Oct 21, 2010 | No Greater Love | Mother Teresa | English |  |
-| 254 | Aug 13, 2010 | Quote Junkie: Motivational Edition (Volume 2) |  | English |  |
-| 255 | Jul 26, 2010 | The World As I See It | Albert Einstein | English |  |
-| 256 | Jul 26, 2010 | Einstein: His Life and Universe | Walter Isaacson | English |  |
-| 257 | Jul 26, 2010 | Einstein: A Biography |  | English |  |
-| 258 | Jul 26, 2010 | The Satanic Verses | Salman Rushdie | English |  |
-| 259 | Jul 25, 2010 | Out of My Later Years | Albert Einstein | English |  |
-| 260 | Jul 13, 2010 | Midnight's Children | Salman Rushdie | English |  |
-| 261 | Jul 6, 2010 | Unto This Last | John Ruskin | English |  |
-| 262 | Jul 6, 2010 | Catch-22 | Joseph Heller | English |  |
-| 263 | Jun 9, 2010 | Quote Junkie: Enormous Quote Book |  | English |  |
-| 264 | May 29, 2010 | The Upanishads | Eknath Easwaran (trans.) | English |  |
-| 265 | May 29, 2010 | The Qur'an | M. A. S. Abdel Haleem (trans.) | English |  |
-| 266 | May 29, 2010 | The Dhammapada | Eknath Easwaran (trans.) | English |  |
-| 267 | May 29, 2010 | The Bhagavad Gita | Eknath Easwaran (trans.) | English |  |
-| 268 | May 13, 2010 | Mankind's Greatest Quotes |  | English |  |
-| 269 | May 9, 2010 | Florida Roadkill | Tim Dorsey | English |  |
-| 270 | May 9, 2010 | Hind Swaraj or Indian Home Rule | Mahatma Gandhi | English |  |
-| 271 | May 9, 2010 | Non-Violent Resistance (Satyagraha) | Mahatma Gandhi | English |  |
-| 272 | May 6, 2010 | Satyagraha in South Africa | Mahatma Gandhi | English |  |
-| 273 | Mar 10, 2010 | The Kingdom of God Is Within You | Leo Tolstoy | English |  |
-| 274 | Feb 22, 2010 | Alexander the Great: Son of the Gods |  | English |  |
-| 275 | Feb 22, 2010 | An Autobiography: The Story of My Experiments with Truth | Mahatma Gandhi | English |  |
-| 276 | Feb 22, 2010 | The Essential Gandhi: An Anthology of His Writings on His Life, Work, and Ideas | Mahatma Gandhi (Louis Fischer, ed.) | English |  |
-| 277 | Feb 14, 2010 | Born to Run | Christopher McDougall | English |  |
-| 278 | Feb 14, 2010 | Shame | Salman Rushdie | English |  |
-| 279 | Feb 14, 2010 | Cadillac Beach | Tim Dorsey | English |  |
-| 280 | Jan 3, 2010 | Swimming Anatomy | Ian McLeod | English |  |
-| 281 | Dec 18, 2009 | Teach Yourself Beginner's Hindi Script | Rupert Snell | English |  |
-| 282 | Nov 30, 2009 | 177 Mental Toughness Secrets of the World Class | Steve Siebold | English |  |
-| 283 | Nov 19, 2009 | Shantaram | Gregory David Roberts | English |  |
-| 284 | Nov 18, 2009 | Conquer Back and Neck Pain: Walk It Off! |  | English |  |
-| 285 | Nov 17, 2009 | How You Stand, How You Move, How You Live: Learning the Alexander Technique | Missy Vineyard | English |  |
-| 286 | Nov 14, 2009 | Improving Your Storytelling | Doug Lipman | English |  |
-| 287 | Nov 14, 2009 | Telling Your Own Stories | Donald Davis | English |  |
-| 288 | Nov 14, 2009 | Crash Course in Storytelling |  | English |  |
-| 289 | Oct 6, 2009 | 8 Steps to a Pain-Free Back | Esther Gokhale | English |  |
-| 290 | Sep 16, 2009 | Resume Magic: Trade Secrets of a Professional Resume Writer | Susan Britton Whitcomb | English |  |
-| 291 | Sep 7, 2009 | Good Night, Gorilla | Peggy Rathmann | English |  |
-| 292 | Sep 7, 2009 | Library Lion | Michelle Knudsen | English |  |
-| 293 | Sep 2, 2009 | Stikky Stock Charts: Learn the 8 Major Stock Chart Patterns Used by Professionals and How to Interpret Them |  | English |  |
-| 294 | May 13, 2009 | Accents: A Manual for Actors | Robert Blumenfeld | English |  |
-| 295 | Apr 22, 2009 | A Course in Miracles | Helen Schucman | English |  |
-| 296 | Apr 11, 2009 | Conversationally Speaking: Tested New Ways to Increase Your Personal and Social Effectiveness | Alan Garner | English |  |
-| 297 | Apr 3, 2009 | Island | Aldous Huxley | English |  |
-| 298 | Mar 13, 2009 | The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal | Jim Loehr, Tony Schwartz | English |  |
-| 299 | Mar 12, 2009 | Florida's Birds: A Field Guide and Reference |  | English |  |
-| 300 | Mar 12, 2009 | Our Inner Ape | Frans de Waal | English |  |
-| 301 | Mar 10, 2009 | Everglades Birds: An Introduction to Familiar Species |  | English |  |
-| 302 | Mar 9, 2009 | The Power of Now: A Guide to Spiritual Enlightenment | Eckhart Tolle | English |  |
-| 303 | Mar 9, 2009 | Brag!: The Art of Tooting Your Own Horn without Blowing It | Peggy Klaus | English |  |
-| 304 | Feb 14, 2009 | The Little Prince | Antoine de Saint-Exupéry | English |  |
-| 305 | Jan 6, 2009 | Mastering Your Hidden Self: A Guide to the Huna Way | Serge Kahili King | English |  |
-| 306 | Jan 6, 2009 | Crucial Conversations: Tools for Talking When Stakes Are High | Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler | English |  |
-| 307 | Dec 19, 2008 | Weber's Real Grilling | Jamie Purviance | English |  |
-| 308 | Dec 19, 2008 | The Multi-Orgasmic Couple | Mantak Chia, Maneewan Chia, Douglas Abrams, Rachel Carlton Abrams | English |  |
-| 309 | Nov 11, 2008 | Stronger Abs and Back: 165 Exercises to Build Your Center of Power | Dennis Brown | English |  |
-| 310 | Nov 11, 2008 | 7 Steps to a Pain-Free Life: How to Rapidly Relieve Back and Neck Pain | Robin McKenzie | English |  |
-| 311 | Nov 9, 2008 | Strength Training Anatomy | Frédéric Delavier | English |  |
-| 312 | Nov 9, 2008 | Total Immersion: The Revolutionary Way to Swim Better, Faster, and Easier | Terry Laughlin | English |  |
-| 313 | Nov 9, 2008 | Fitness Swimming | Emmett Hines | English |  |
-| 314 | Oct 30, 2008 | Think and Grow Rich | Napoleon Hill | English |  |
-| 315 | Oct 30, 2008 | The 4-Hour Workweek | Tim Ferriss | English |  |
-| 316 | Sep 13, 2008 | The Man Who Knew Infinity: A Life of the Genius Ramanujan | Robert Kanigel | English |  |
-| 317 | Sep 13, 2008 | Silent Power | Stuart Wilde | English |  |
-| 318 | Jul 23, 2008 | Writing Magic: Creating Stories that Fly | Gail Carson Levine | English |  |
-| 319 | Jul 23, 2008 | The Ramayana: A Modern Retelling of the Great Indian Epic | Ramesh Menon | English |  |
-| 320 | Jul 3, 2008 | The Ancestor's Tale: A Pilgrimage to the Dawn of Evolution | Richard Dawkins | English |  |
-| 321 | Jul 3, 2008 | The Mating Mind: How Sexual Choice Shaped the Evolution of Human Nature | Geoffrey Miller | English |  |
-| 322 | Jul 3, 2008 | The Selfish Gene | Richard Dawkins | English |  |
-| 323 | Jun 23, 2008 | The Elements of Persuasion: Use Storytelling to Pitch Better, Sell Faster & Win More Business | Richard Maxwell, Robert Dickman | English |  |
-| 324 | Jun 23, 2008 | The Story Factor | Annette Simmons | English |  |
-| 325 | Jun 23, 2008 | The War of Art: Break Through the Blocks and Win Your Inner Creative Battles | Steven Pressfield | English |  |
-| 326 | Jun 15, 2008 | I Am That: Talks with Sri Nisargadatta | Nisargadatta Maharaj | English |  |
-| 327 | May 30, 2008 | How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships | Leil Lowndes | English |  |
-| 328 | May 30, 2008 | NLP: The New Technology of Achievement |  | English |  |
-| 329 | May 30, 2008 | The Definitive Book of Body Language | Allan Pease, Barbara Pease | English |  |
-| 330 | May 18, 2008 | The Mystery Method: How to Get Beautiful Women Into Bed | Mystery | English |  |
-| 331 | May 18, 2008 | The Myth of Male Power | Warren Farrell | English |  |
-| 332 | May 18, 2008 | Palm Reading for Beginners: Find Your Future in the Palm of Your Hand | Richard Webster | English |  |
-| 333 | May 15, 2008 | Outlander | Diana Gabaldon | English |  |
-| 334 | Apr 22, 2008 | Dying Well | Ira Byock | English |  |
-| 335 | Apr 22, 2008 | Women Can't Hear What Men Don't Say: Destroying Myths, Creating Love | Warren Farrell | English |  |
-| 336 | Apr 22, 2008 | Confessions of an Economic Hit Man | John Perkins | English |  |
-| 337 | Mar 13, 2008 | The Prophet | Kahlil Gibran | English |  |
-| 338 | Feb 22, 2008 | HTML, XHTML, and CSS (Visual QuickStart Guide) | Elizabeth Castro | English |  |
-| 339 | Feb 6, 2008 | I Can't Believe I'm Buying This Book: A Commonsense Guide to Successful Internet Dating | Evan Marc Katz | English |  |
-| 340 | Feb 6, 2008 | The Wandering Fire (The Fionavar Tapestry, Book 2) | Guy Gavriel Kay | English |  |
-| 341 | Feb 6, 2008 | The Darkest Road (The Fionavar Tapestry, Book 3) | Guy Gavriel Kay | English |  |
-| 342 | Feb 6, 2008 | Online Dating for Dummies |  | English |  |
-| 343 | Jan 23, 2008 | Sailing to Sarantium | Guy Gavriel Kay | English |  |
-| 344 | Jan 21, 2008 | The Comic Toolbox: How to Be Funny Even If You're Not | John Vorhaus | English |  |
-| 345 | Jan 20, 2008 | The Comedy Bible: From Stand-up to Sitcom | Judy Carter | English |  |
-| 346 | Jan 20, 2008 | Milton Berle's Private Joke File | Milton Berle | English |  |
-| 347 | Jan 16, 2008 | The Summer Tree (The Fionavar Tapestry, Book 1) | Guy Gavriel Kay | English |  |
-| 348 | Jan 16, 2008 | A Song for Arbonne | Guy Gavriel Kay | English |  |
-| 349 | Jan 16, 2008 | Lord of Emperors (The Sarantine Mosaic, Book 2) | Guy Gavriel Kay | English |  |
-| 350 | Jan 13, 2008 | Comedy Writing Secrets | Mel Helitzer, Mark Shatz | English |  |
-| 351 | Jan 13, 2008 | Feel the Fear . . . and Do It Anyway | Susan Jeffers | English |  |
-| 352 | Jan 13, 2008 | Bad Boys |  | English |  |
-| 353 | Dec 9, 2007 | Tigana | Guy Gavriel Kay | English |  |
-| 354 | Oct 11, 2007 | Drupal: Creating Blogs, Forums, Portals, and Community Websites | David Mercer | English |  |
-| 355 | Oct 11, 2007 | Pro Drupal Development | John K. VanDyk, Matt Westgate | English |  |
-| 356 | Sep 8, 2007 | Les Misérables | Victor Hugo | English |  |
-| 357 | Aug 24, 2007 | The Lions of Al-Rassan | Guy Gavriel Kay | English |  |
-| 358 | Aug 24, 2007 | The Doors of His Face, the Lamps of His Mouth | Roger Zelazny | English |  |
-| 359 | Aug 21, 2007 | Pandora's Star | Peter F. Hamilton | English |  |
-| 360 | Aug 19, 2007 | Manna from Heaven |  | English |  |
-| 361 | Jul 23, 2007 | The Alchemist | Paulo Coelho | English |  |
-| 362 | Jul 23, 2007 | The Moonstone | Wilkie Collins | English |  |
-| 363 | Jul 23, 2007 | How to Succeed with Women |  | English |  |
-| 364 | Apr 25, 2007 | Mindfulness in Plain English | Bhante Henepola Gunaratana | English |  |
-| 365 | Apr 25, 2007 | Teach Yourself to Meditate in 10 Simple Lessons | Eric Harrison | English |  |
-| 366 | Mar 15, 2007 | A Streetcar Named Desire | Tennessee Williams | English |  |
-| 367 | Mar 15, 2007 | Breakfast at Tiffany's: A Short Novel and Three Stories | Truman Capote | English |  |
-| 368 | Mar 15, 2007 | One Hundred Years of Solitude | Gabriel García Márquez | English |  |
-| 369 | Mar 2, 2007 | The Awakening of Intelligence | Jiddu Krishnamurti | English |  |
-| 370 | Mar 2, 2007 | Lord of Light | Roger Zelazny | English |  |
-| 371 | Mar 2, 2007 | The Great Book of Amber: The Complete Amber Chronicles, 1–10 | Roger Zelazny | English |  |
-| 372 | Mar 2, 2007 | The Wishing Chair Collection | Enid Blyton | English |  |
-| 373 | Nov 27, 2006 | Gitanjali | Rabindranath Tagore | English |  |
-| 374 | Nov 27, 2006 | Sadhana: The Realization of Life | Rabindranath Tagore | English |  |
-| 375 | Nov 27, 2006 | The Gardener | Rabindranath Tagore | English |  |
-| 376 | Oct 9, 2006 | The Devil Wears Prada | Lauren Weisberger | English |  |
-| 377 | Oct 9, 2006 | The Nanny Diaries | Emma McLaughlin, Nicola Kraus | English |  |
-| 378 | Oct 3, 2006 | Jonathan Strange & Mr Norrell | Susanna Clarke | English |  |
-| 379 | Oct 3, 2006 | Don Quixote | Miguel de Cervantes | English |  |
-| 380 | Sep 27, 2006 | Neuromancer | William Gibson | English |  |
-| 381 | Sep 24, 2006 | The Dragon Masters | Jack Vance | English |  |
-| 382 | Sep 21, 2006 | Confessions of an Ugly Stepsister | Gregory Maguire | English |  |
-| 383 | Sep 3, 2006 | Wicked: The Life and Times of the Wicked Witch of the West | Gregory Maguire | English |  |
-| 384 | Sep 3, 2006 | The Namesake | Jhumpa Lahiri | English |  |
-| 385 | Apr 16, 2006 | Your Brilliant Wedding Speech |  | English |  |
-| 386 | Apr 16, 2006 | Making a Wedding Speech |  | English |  |
-| 387 | Apr 16, 2006 | Be the Best, Best Man and Make a Stunning Speech! |  | English |  |
-| 388 | May 27, 2005 | India Unbound: The Social and Economic Revolution from Independence to the Global Information Age | Gurcharan Das | English |  |
-| 389 | Sep 8, 2004 | Medical Acronyms, Eponyms, Mnemonics (Pocket Brain) |  | English |  |
-| 390 | Aug 17, 2004 | Medico Mnemonica: A Collection of Fun, Ribald, Irreverent and Quite Witty Mnemonics for Medical Students |  | English |  |
-| 391 | Aug 4, 2004 | The Linux Cookbook: Tips and Techniques for Everyday Use | Carla Schroder | English |  |
-| 392 | Aug 2, 2004 | Visual Mnemonics for Physiology and Related Anatomy |  | English |  |
-| 393 | Aug 2, 2004 | Linux Apache Web Server Administration | Charles Aulds | English |  |
-| 394 | May 5, 2004 | Animal Farm | George Orwell | English |  |
-| 395 | May 4, 2004 | Turn Left at Orion: A Hundred Night Sky Objects to See in a Small Telescope—and How to Find Them | Guy Consolmagno, Dan M. Davis | English |  |
-| 396 | Jul 29, 2002 | Arco PCAT |  | English |  |
-| 397 | Jul 29, 2002 | How to Play Popular Piano in 10 Easy Lessons | Norman Monath | English |  |
-| 398 | Jan 30, 2002 | Favorite Piano Classics: 83 Best-Loved Works |  | English |  |
-| 399 | Jan 30, 2002 | I Hate Hamlet | Paul Rudnick | English |  |
-| 400 |  | ⭐ Foundation series | Isaac Asimov | English |  |
-| 401 |  | ⭐ 1984 | George Orwell | English |  |
-| 402 |  | Ham on Rye | Charles Bukowski | English |  |
-| 403 |  | Travels with My Aunt | Graham Greene | English |  |
-| 404 |  | Siddhartha | Hermann Hesse | English |  |
-| 405 |  | Sapiens | Yuval Noah Harari | English |  |
-| 406 |  | Juan Salvador Gaviota | Richard Bach | Spanish |  |
-| 407 |  | Oxford French Cartoon-Strip Vocabulary Builder |  | French |  |
+| 217 | Aug 7, 2015 | Cuentos de Eva Luna | Isabel Allende | Spanish |  |
+| 218 | Jul 24, 2015 | The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It | Michael E. Gerber | English |  |
+| 219 | Jul 21, 2015 | The Hero with a Thousand Faces | Joseph Campbell | English |  |
+| 220 | Jun 17, 2015 | Gita Govinda of Jayadeva: Love Song of the Dark Lord | Jayadeva (Barbara Stoler Miller, trans.) | English |  |
+| 221 | Feb 27, 2015 | The Inside-Out Revolution | Michael Neill | English |  |
+| 222 | Feb 17, 2015 | Clarity: Clear Mind, Better Performance, Bigger Results | Jamie Smart | English |  |
+| 223 | Dec 3, 2014 | Crónica de una muerte anunciada | Gabriel García Márquez | Spanish |  |
+| 224 | Oct 1, 2014 | The Social Conquest of Earth | Edward O. Wilson | English |  |
+| 225 | Mar 5, 2014 | The Alabaster Girl | Zan Perrion | English |  |
+| 226 | Sep 3, 2013 | Justice Denied: The Journey of a Judge |  | English |  |
+| 227 | Sep 3, 2013 | Time Enough for Love | Robert A. Heinlein | English |  |
+| 228 | Sep 3, 2013 | A House for Mr. Biswas | V. S. Naipaul | English |  |
+| 229 | Jul 29, 2013 | Seeds of Plenty |  | English |  |
+| 230 | Mar 17, 2013 | Dr. Seth's Love Prescription: Overcome Relationship Repetition Syndrome and Find the Love You Deserve | Seth Meyers | English |  |
+| 231 | Jun 7, 2012 | Fables | Jean de La Fontaine | French |  |
+| 232 | May 29, 2012 | Tintin au Congo | Hergé | French |  |
+| 233 | Sep 24, 2011 | Notes from Underground | Fyodor Dostoevsky | English |  |
+| 234 | Sep 24, 2011 | Stalin: A Biography |  | English |  |
+| 235 | Sep 24, 2011 | Leonardo: The Artist and the Man | Serge Bramly | English |  |
+| 236 | Sep 24, 2011 | Lenin: A Biography |  | English |  |
+| 237 | Sep 13, 2011 | Umrao Jan Ada | Mirza Hadi Ruswa | English |  |
+| 238 | Sep 13, 2011 | Fight Club | Chuck Palahniuk | English |  |
+| 239 | Sep 13, 2011 | Forks Over Knives: The Plant-Based Way to Health | Gene Stone (ed.) | English |  |
+| 240 | Sep 6, 2011 | The Spectrum | Dean Ornish | English |  |
+| 241 | Sep 6, 2011 | Prevent and Reverse Heart Disease | Caldwell B. Esselstyn Jr. | English |  |
+| 242 | Aug 14, 2011 | Julius Caesar | William Shakespeare | English |  |
+| 243 | Aug 14, 2011 | The Manual: What Women Want and How to Give It to Them |  | English |  |
+| 244 | Jun 28, 2011 | Napoleon |  | English |  |
+| 245 | Jun 14, 2011 | The Great Mango Book: A Guide with Recipes |  | English |  |
+| 246 | Jun 14, 2011 | Beyond Einstein: The Cosmic Quest for the Theory of the Universe | Michio Kaku | English |  |
+| 247 | May 13, 2011 | John Carter of Mars, Vol. 1: A Princess of Mars / The Gods of Mars | Edgar Rice Burroughs | English |  |
+| 248 | May 13, 2011 | The Moor's Last Sigh | Salman Rushdie | English |  |
+| 249 | Jan 10, 2011 | Memoirs of a Geisha | Arthur Golden | English |  |
+| 250 | Oct 21, 2010 | Mother Teresa: A Complete Authorized Biography | Kathryn Spink | English |  |
+| 251 | Oct 21, 2010 | Say You're One of Them | Uwem Akpan | English |  |
+| 252 | Oct 21, 2010 | No Greater Love | Mother Teresa | English |  |
+| 253 | Aug 13, 2010 | Quote Junkie: Motivational Edition (Volume 2) |  | English |  |
+| 254 | Jul 26, 2010 | The World As I See It | Albert Einstein | English |  |
+| 255 | Jul 26, 2010 | Einstein: His Life and Universe | Walter Isaacson | English |  |
+| 256 | Jul 26, 2010 | Einstein: A Biography |  | English |  |
+| 257 | Jul 26, 2010 | The Satanic Verses | Salman Rushdie | English |  |
+| 258 | Jul 25, 2010 | Out of My Later Years | Albert Einstein | English |  |
+| 259 | Jul 13, 2010 | Midnight's Children | Salman Rushdie | English |  |
+| 260 | Jul 6, 2010 | Unto This Last | John Ruskin | English |  |
+| 261 | Jul 6, 2010 | Catch-22 | Joseph Heller | English |  |
+| 262 | Jun 9, 2010 | Quote Junkie: Enormous Quote Book |  | English |  |
+| 263 | May 29, 2010 | The Upanishads | Eknath Easwaran (trans.) | English |  |
+| 264 | May 29, 2010 | The Qur'an | M. A. S. Abdel Haleem (trans.) | English |  |
+| 265 | May 29, 2010 | The Dhammapada | Eknath Easwaran (trans.) | English |  |
+| 266 | May 29, 2010 | The Bhagavad Gita | Eknath Easwaran (trans.) | English |  |
+| 267 | May 13, 2010 | Mankind's Greatest Quotes |  | English |  |
+| 268 | May 9, 2010 | Florida Roadkill | Tim Dorsey | English |  |
+| 269 | May 9, 2010 | Hind Swaraj or Indian Home Rule | Mahatma Gandhi | English |  |
+| 270 | May 9, 2010 | Non-Violent Resistance (Satyagraha) | Mahatma Gandhi | English |  |
+| 271 | May 6, 2010 | Satyagraha in South Africa | Mahatma Gandhi | English |  |
+| 272 | Mar 10, 2010 | The Kingdom of God Is Within You | Leo Tolstoy | English |  |
+| 273 | Feb 22, 2010 | Alexander the Great: Son of the Gods |  | English |  |
+| 274 | Feb 22, 2010 | An Autobiography: The Story of My Experiments with Truth | Mahatma Gandhi | English |  |
+| 275 | Feb 22, 2010 | The Essential Gandhi: An Anthology of His Writings on His Life, Work, and Ideas | Mahatma Gandhi (Louis Fischer, ed.) | English |  |
+| 276 | Feb 14, 2010 | Born to Run | Christopher McDougall | English |  |
+| 277 | Feb 14, 2010 | Shame | Salman Rushdie | English |  |
+| 278 | Feb 14, 2010 | Cadillac Beach | Tim Dorsey | English |  |
+| 279 | Jan 3, 2010 | Swimming Anatomy | Ian McLeod | English |  |
+| 280 | Dec 18, 2009 | Teach Yourself Beginner's Hindi Script | Rupert Snell | English |  |
+| 281 | Nov 30, 2009 | 177 Mental Toughness Secrets of the World Class | Steve Siebold | English |  |
+| 282 | Nov 19, 2009 | Shantaram | Gregory David Roberts | English |  |
+| 283 | Nov 18, 2009 | Conquer Back and Neck Pain: Walk It Off! |  | English |  |
+| 284 | Nov 17, 2009 | How You Stand, How You Move, How You Live: Learning the Alexander Technique | Missy Vineyard | English |  |
+| 285 | Nov 14, 2009 | Improving Your Storytelling | Doug Lipman | English |  |
+| 286 | Nov 14, 2009 | Telling Your Own Stories | Donald Davis | English |  |
+| 287 | Nov 14, 2009 | Crash Course in Storytelling |  | English |  |
+| 288 | Oct 6, 2009 | 8 Steps to a Pain-Free Back | Esther Gokhale | English |  |
+| 289 | Sep 16, 2009 | Resume Magic: Trade Secrets of a Professional Resume Writer | Susan Britton Whitcomb | English |  |
+| 290 | Sep 7, 2009 | Good Night, Gorilla | Peggy Rathmann | English |  |
+| 291 | Sep 7, 2009 | Library Lion | Michelle Knudsen | English |  |
+| 292 | Sep 2, 2009 | Stikky Stock Charts: Learn the 8 Major Stock Chart Patterns Used by Professionals and How to Interpret Them |  | English |  |
+| 293 | May 13, 2009 | Accents: A Manual for Actors | Robert Blumenfeld | English |  |
+| 294 | Apr 22, 2009 | A Course in Miracles | Helen Schucman | English |  |
+| 295 | Apr 11, 2009 | Conversationally Speaking: Tested New Ways to Increase Your Personal and Social Effectiveness | Alan Garner | English |  |
+| 296 | Apr 3, 2009 | Island | Aldous Huxley | English |  |
+| 297 | Mar 13, 2009 | The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal | Jim Loehr, Tony Schwartz | English |  |
+| 298 | Mar 12, 2009 | Florida's Birds: A Field Guide and Reference |  | English |  |
+| 299 | Mar 12, 2009 | Our Inner Ape | Frans de Waal | English |  |
+| 300 | Mar 10, 2009 | Everglades Birds: An Introduction to Familiar Species |  | English |  |
+| 301 | Mar 9, 2009 | The Power of Now: A Guide to Spiritual Enlightenment | Eckhart Tolle | English |  |
+| 302 | Mar 9, 2009 | Brag!: The Art of Tooting Your Own Horn without Blowing It | Peggy Klaus | English |  |
+| 303 | Feb 14, 2009 | The Little Prince | Antoine de Saint-Exupéry | English |  |
+| 304 | Jan 6, 2009 | Mastering Your Hidden Self: A Guide to the Huna Way | Serge Kahili King | English |  |
+| 305 | Jan 6, 2009 | Crucial Conversations: Tools for Talking When Stakes Are High | Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler | English |  |
+| 306 | Dec 19, 2008 | Weber's Real Grilling | Jamie Purviance | English |  |
+| 307 | Dec 19, 2008 | The Multi-Orgasmic Couple | Mantak Chia, Maneewan Chia, Douglas Abrams, Rachel Carlton Abrams | English |  |
+| 308 | Nov 11, 2008 | Stronger Abs and Back: 165 Exercises to Build Your Center of Power | Dennis Brown | English |  |
+| 309 | Nov 11, 2008 | 7 Steps to a Pain-Free Life: How to Rapidly Relieve Back and Neck Pain | Robin McKenzie | English |  |
+| 310 | Nov 9, 2008 | Strength Training Anatomy | Frédéric Delavier | English |  |
+| 311 | Nov 9, 2008 | Total Immersion: The Revolutionary Way to Swim Better, Faster, and Easier | Terry Laughlin | English |  |
+| 312 | Nov 9, 2008 | Fitness Swimming | Emmett Hines | English |  |
+| 313 | Oct 30, 2008 | Think and Grow Rich | Napoleon Hill | English |  |
+| 314 | Oct 30, 2008 | The 4-Hour Workweek | Tim Ferriss | English |  |
+| 315 | Sep 13, 2008 | The Man Who Knew Infinity: A Life of the Genius Ramanujan | Robert Kanigel | English |  |
+| 316 | Sep 13, 2008 | Silent Power | Stuart Wilde | English |  |
+| 317 | Jul 23, 2008 | Writing Magic: Creating Stories that Fly | Gail Carson Levine | English |  |
+| 318 | Jul 23, 2008 | The Ramayana: A Modern Retelling of the Great Indian Epic | Ramesh Menon | English |  |
+| 319 | Jul 3, 2008 | The Ancestor's Tale: A Pilgrimage to the Dawn of Evolution | Richard Dawkins | English |  |
+| 320 | Jul 3, 2008 | The Mating Mind: How Sexual Choice Shaped the Evolution of Human Nature | Geoffrey Miller | English |  |
+| 321 | Jul 3, 2008 | The Selfish Gene | Richard Dawkins | English |  |
+| 322 | Jun 23, 2008 | The Elements of Persuasion: Use Storytelling to Pitch Better, Sell Faster & Win More Business | Richard Maxwell, Robert Dickman | English |  |
+| 323 | Jun 23, 2008 | The Story Factor | Annette Simmons | English |  |
+| 324 | Jun 23, 2008 | The War of Art: Break Through the Blocks and Win Your Inner Creative Battles | Steven Pressfield | English |  |
+| 325 | Jun 15, 2008 | I Am That: Talks with Sri Nisargadatta | Nisargadatta Maharaj | English |  |
+| 326 | May 30, 2008 | How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships | Leil Lowndes | English |  |
+| 327 | May 30, 2008 | NLP: The New Technology of Achievement |  | English |  |
+| 328 | May 30, 2008 | The Definitive Book of Body Language | Allan Pease, Barbara Pease | English |  |
+| 329 | May 18, 2008 | The Mystery Method: How to Get Beautiful Women Into Bed | Mystery | English |  |
+| 330 | May 18, 2008 | The Myth of Male Power | Warren Farrell | English |  |
+| 331 | May 18, 2008 | Palm Reading for Beginners: Find Your Future in the Palm of Your Hand | Richard Webster | English |  |
+| 332 | May 15, 2008 | Outlander | Diana Gabaldon | English |  |
+| 333 | Apr 22, 2008 | Dying Well | Ira Byock | English |  |
+| 334 | Apr 22, 2008 | Women Can't Hear What Men Don't Say: Destroying Myths, Creating Love | Warren Farrell | English |  |
+| 335 | Apr 22, 2008 | Confessions of an Economic Hit Man | John Perkins | English |  |
+| 336 | Mar 13, 2008 | The Prophet | Kahlil Gibran | English |  |
+| 337 | Feb 22, 2008 | HTML, XHTML, and CSS (Visual QuickStart Guide) | Elizabeth Castro | English |  |
+| 338 | Feb 6, 2008 | I Can't Believe I'm Buying This Book: A Commonsense Guide to Successful Internet Dating | Evan Marc Katz | English |  |
+| 339 | Feb 6, 2008 | The Wandering Fire (The Fionavar Tapestry, Book 2) | Guy Gavriel Kay | English |  |
+| 340 | Feb 6, 2008 | The Darkest Road (The Fionavar Tapestry, Book 3) | Guy Gavriel Kay | English |  |
+| 341 | Feb 6, 2008 | Online Dating for Dummies |  | English |  |
+| 342 | Jan 23, 2008 | Sailing to Sarantium | Guy Gavriel Kay | English |  |
+| 343 | Jan 21, 2008 | The Comic Toolbox: How to Be Funny Even If You're Not | John Vorhaus | English |  |
+| 344 | Jan 20, 2008 | The Comedy Bible: From Stand-up to Sitcom | Judy Carter | English |  |
+| 345 | Jan 20, 2008 | Milton Berle's Private Joke File | Milton Berle | English |  |
+| 346 | Jan 16, 2008 | The Summer Tree (The Fionavar Tapestry, Book 1) | Guy Gavriel Kay | English |  |
+| 347 | Jan 16, 2008 | A Song for Arbonne | Guy Gavriel Kay | English |  |
+| 348 | Jan 16, 2008 | Lord of Emperors (The Sarantine Mosaic, Book 2) | Guy Gavriel Kay | English |  |
+| 349 | Jan 13, 2008 | Comedy Writing Secrets | Mel Helitzer, Mark Shatz | English |  |
+| 350 | Jan 13, 2008 | Feel the Fear . . . and Do It Anyway | Susan Jeffers | English |  |
+| 351 | Jan 13, 2008 | Bad Boys |  | English |  |
+| 352 | Dec 9, 2007 | Tigana | Guy Gavriel Kay | English |  |
+| 353 | Oct 11, 2007 | Drupal: Creating Blogs, Forums, Portals, and Community Websites | David Mercer | English |  |
+| 354 | Oct 11, 2007 | Pro Drupal Development | John K. VanDyk, Matt Westgate | English |  |
+| 355 | Sep 8, 2007 | Les Misérables | Victor Hugo | English |  |
+| 356 | Aug 24, 2007 | The Lions of Al-Rassan | Guy Gavriel Kay | English |  |
+| 357 | Aug 24, 2007 | The Doors of His Face, the Lamps of His Mouth | Roger Zelazny | English |  |
+| 358 | Aug 21, 2007 | Pandora's Star | Peter F. Hamilton | English |  |
+| 359 | Aug 19, 2007 | Manna from Heaven |  | English |  |
+| 360 | Jul 23, 2007 | The Alchemist | Paulo Coelho | English |  |
+| 361 | Jul 23, 2007 | The Moonstone | Wilkie Collins | English |  |
+| 362 | Jul 23, 2007 | How to Succeed with Women |  | English |  |
+| 363 | Apr 25, 2007 | Mindfulness in Plain English | Bhante Henepola Gunaratana | English |  |
+| 364 | Apr 25, 2007 | Teach Yourself to Meditate in 10 Simple Lessons | Eric Harrison | English |  |
+| 365 | Mar 15, 2007 | A Streetcar Named Desire | Tennessee Williams | English |  |
+| 366 | Mar 15, 2007 | Breakfast at Tiffany's: A Short Novel and Three Stories | Truman Capote | English |  |
+| 367 | Mar 15, 2007 | One Hundred Years of Solitude | Gabriel García Márquez | English |  |
+| 368 | Mar 2, 2007 | The Awakening of Intelligence | Jiddu Krishnamurti | English |  |
+| 369 | Mar 2, 2007 | Lord of Light | Roger Zelazny | English |  |
+| 370 | Mar 2, 2007 | The Great Book of Amber: The Complete Amber Chronicles, 1–10 | Roger Zelazny | English |  |
+| 371 | Mar 2, 2007 | The Wishing Chair Collection | Enid Blyton | English |  |
+| 372 | Nov 27, 2006 | Gitanjali | Rabindranath Tagore | English |  |
+| 373 | Nov 27, 2006 | Sadhana: The Realization of Life | Rabindranath Tagore | English |  |
+| 374 | Nov 27, 2006 | The Gardener | Rabindranath Tagore | English |  |
+| 375 | Oct 9, 2006 | The Devil Wears Prada | Lauren Weisberger | English |  |
+| 376 | Oct 9, 2006 | The Nanny Diaries | Emma McLaughlin, Nicola Kraus | English |  |
+| 377 | Oct 3, 2006 | Jonathan Strange & Mr Norrell | Susanna Clarke | English |  |
+| 378 | Oct 3, 2006 | Don Quixote | Miguel de Cervantes | English |  |
+| 379 | Sep 27, 2006 | Neuromancer | William Gibson | English |  |
+| 380 | Sep 24, 2006 | The Dragon Masters | Jack Vance | English |  |
+| 381 | Sep 21, 2006 | Confessions of an Ugly Stepsister | Gregory Maguire | English |  |
+| 382 | Sep 3, 2006 | Wicked: The Life and Times of the Wicked Witch of the West | Gregory Maguire | English |  |
+| 383 | Sep 3, 2006 | The Namesake | Jhumpa Lahiri | English |  |
+| 384 | Apr 16, 2006 | Your Brilliant Wedding Speech |  | English |  |
+| 385 | Apr 16, 2006 | Making a Wedding Speech |  | English |  |
+| 386 | Apr 16, 2006 | Be the Best, Best Man and Make a Stunning Speech! |  | English |  |
+| 387 | May 27, 2005 | India Unbound: The Social and Economic Revolution from Independence to the Global Information Age | Gurcharan Das | English |  |
+| 388 | Sep 8, 2004 | Medical Acronyms, Eponyms, Mnemonics (Pocket Brain) |  | English |  |
+| 389 | Aug 17, 2004 | Medico Mnemonica: A Collection of Fun, Ribald, Irreverent and Quite Witty Mnemonics for Medical Students |  | English |  |
+| 390 | Aug 4, 2004 | The Linux Cookbook: Tips and Techniques for Everyday Use | Carla Schroder | English |  |
+| 391 | Aug 2, 2004 | Visual Mnemonics for Physiology and Related Anatomy |  | English |  |
+| 392 | Aug 2, 2004 | Linux Apache Web Server Administration | Charles Aulds | English |  |
+| 393 | May 5, 2004 | Animal Farm | George Orwell | English |  |
+| 394 | May 4, 2004 | Turn Left at Orion: A Hundred Night Sky Objects to See in a Small Telescope—and How to Find Them | Guy Consolmagno, Dan M. Davis | English |  |
+| 395 | Jul 29, 2002 | Arco PCAT |  | English |  |
+| 396 | Jul 29, 2002 | How to Play Popular Piano in 10 Easy Lessons | Norman Monath | English |  |
+| 397 | Jan 30, 2002 | Favorite Piano Classics: 83 Best-Loved Works |  | English |  |
+| 398 | Jan 30, 2002 | I Hate Hamlet | Paul Rudnick | English |  |
+| 399 |  | ⭐ Foundation series | Isaac Asimov | English |  |
+| 400 |  | ⭐ 1984 | George Orwell | English |  |
+| 401 |  | Ham on Rye | Charles Bukowski | English |  |
+| 402 |  | Travels with My Aunt | Graham Greene | English |  |
+| 403 |  | Siddhartha | Hermann Hesse | English |  |
+| 404 |  | Sapiens | Yuval Noah Harari | English |  |
+| 405 |  | Juan Salvador Gaviota | Richard Bach | Spanish |  |
+| 406 |  | Oxford French Cartoon-Strip Vocabulary Builder |  | French |  |
 
 ## Books Not Liked
 
