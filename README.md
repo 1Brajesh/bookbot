@@ -169,6 +169,17 @@ _Nothing yet._
 | August 4, 2019 | Improve Your Eyesight: A Guide to the Bates Method for Better Eyesight Without Glasses | Jonathan Barnes | English |  |
 | August 4, 2019 | The Bates Method for Better Eyesight | William H. Bates | English |  |
 | July 4, 2019 | Mind Over Back Pain | John Sarno | English |  |
+| June 30, 2019 | Hypnosis: A Comprehensive Guide | Tad James | English |  |
+| June 30, 2019 | Time Line Therapy and the Basis of Personality | Tad James, Wyatt Woodsmall | English |  |
+| June 3, 2019 | The Structure of Magic I: A Book about Language and Therapy | Richard Bandler, John Grinder | English |  |
+| May 29, 2019 | Healing Back Pain: The Mind-Body Connection | John E. Sarno | English |  |
+| May 12, 2019 | Neuro-Linguistic Programming for Dummies | Romilla Ready, Kate Burton | English |  |
+| May 12, 2019 | Be the Person You Want to Be: Harness the Power of Neuro-Linguistic Programming to Reach Your Potential | John J. Emerick Jr. | English |  |
+| April 29, 2019 | How to Win Friends and Influence People | Dale Carnegie | English |  |
+| April 27, 2019 | Be Heard Now! | Lee Glickstein | English |  |
+| April 16, 2019 | Nonviolent Communication: A Language of Compassion | Marshall B. Rosenberg | English |  |
+| January 29, 2019 | If the Buddha Dated: A Handbook for Finding Love on a Spiritual Path | Charlotte S. Kasl | English |  |
+| January 29, 2019 | Wisdom from the Four Agreements | Don Miguel Ruiz | English |  |
 
 ## Books Not Liked
 
