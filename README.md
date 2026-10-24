@@ -12,6 +12,18 @@ Brajesh's reading list, kept by Book bot. Reads in English, venturing into Spani
 | 4 | El amor en los tiempos del cólera | Gabriel García Márquez | Long, winding sentences (recommended by Paola) |
 | 5 | Ensayo sobre la ceguera | José Saramago | Paola's favorite; hardest, save for last (recommended by Paola) |
 
+### Vocabulary: Del amor y otros demonios
+
+**Church and the exorcism**: el obispo (the bishop); el exorcismo / exorcizar (an exorcism / to perform one); el convento / la abadesa (the convent / the abbess); la clausura (the closed-off part of a convent); el demonio / endemoniada (a demon / possessed); la Inquisición / el Santo Oficio (the Inquisition); el pecado / la penitencia (sin / penance)
+
+**Sickness and the body**: la rabia / rabioso (rabies / rabid); el mordisco / morder (a bite / to bite); el médico / el galeno (doctor (galeno is old-fashioned)); la fiebre / el delirio (fever / delirium)
+
+**Colonial life**: el marqués (the marquis, her father); los esclavos / el patio de los esclavos (the slaves / their yard); el virrey (the viceroy); la cabellera (a long mane of hair, a key symbol)
+
+**Old-style Spanish forms**: vuestra merced / vos (very formal 'you'); acaso (perhaps); mas (no accent) (but)
+
+**Feelings and love**: el desvelo (sleeplessness, worrying over someone); la locura (madness); anhelar (to long for); el delirio de amor (lovesick obsession)
+
 ## Favorite Books
 
 _Nothing yet._
