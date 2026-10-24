@@ -42,6 +42,8 @@ Brajesh's reading list, kept by Book bot. Reads in English, venturing into Spani
 | Our Man in Havana | Graham Greene |
 | Brave New World | Aldous Huxley |
 | The Crowd | Gustave Le Bon |
+| Foundation series | Isaac Asimov |
+| Battle Circle | Piers Anthony |
 
 ## Read Books
 
@@ -52,7 +54,7 @@ Brajesh's reading list, kept by Book bot. Reads in English, venturing into Spani
 | May 5, 2024 | ⭐ Brave New World | Aldous Huxley | English |  |
 | April 19, 2024 | How to Solve All Your Money Problems Forever: Creating a Positive Flow of Money Into Your Life | Victor Boc | English |  |
 | January 25, 2024 | Factotum | Charles Bukowski | English |  |
-| November 15, 2023 | Battle Circle | Piers Anthony | English |  |
+| November 15, 2023 | ⭐ Battle Circle | Piers Anthony | English |  |
 | October 26, 2023 | The Titan's Curse (Percy Jackson and the Olympians, Book 3) | Rick Riordan | English |  |
 | October 19, 2023 | The Story of My Life | Giacomo Casanova | English |  |
 | August 26, 2023 | ⭐ Radical Honesty: How to Transform Your Life by Telling the Truth | Brad Blanton | English |  |
@@ -195,6 +197,7 @@ Brajesh's reading list, kept by Book bot. Reads in English, venturing into Spani
 | April 16, 2019 | Nonviolent Communication: A Language of Compassion | Marshall B. Rosenberg | English |  |
 | January 29, 2019 | If the Buddha Dated: A Handbook for Finding Love on a Spiritual Path | Charlotte S. Kasl | English |  |
 | January 29, 2019 | Wisdom from the Four Agreements | Don Miguel Ruiz | English |  |
+|  | ⭐ Foundation series | Isaac Asimov | English |  |
 
 ## Books Not Liked
 
