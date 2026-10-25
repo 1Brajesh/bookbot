@@ -18,6 +18,10 @@ Brajesh's reading list, kept by Book bot. Reads in English, venturing into Spani
 | 10 | Dune | Frank Herbert | Recommended by Book bot |
 | 11 | Influence Is Your Superpower | Zoe Chance | Recommended by Book bot |
 | 12 | Ask the Dust | John Fante | Recommended by Book bot |
+| 13 | Propaganda | Edward Bernays | Recommended by Book bot |
+| 14 | Crystallizing Public Opinion | Edward Bernays | Recommended by Book bot |
+| 15 | The Engineering of Consent | Edward Bernays | Recommended by Book bot |
+| 16 | Biography of an Idea | Edward Bernays | Recommended by Book bot |
 
 Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 

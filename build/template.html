@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Brajesh's Bookshelf</title>
+<style>
+*{box-sizing:border-box}
+body{font-family:Georgia,serif;margin:0;background:#f3ece1;color:#2b2b2b}
+header{text-align:center;padding:24px 16px 8px}h1{margin:0 0 4px}p.sub{margin:0;color:#777}
+.bar{position:sticky;top:0;z-index:5;background:#f3ece1ee;display:flex;gap:8px;justify-content:center;padding:10px;flex-wrap:wrap}
+.bar input{flex:1;max-width:420px;padding:9px 12px;border:1px solid #c9b79c;border-radius:20px;font:inherit}
+.bar button{padding:8px 14px;border-radius:20px;border:1px solid #8a5a2b;background:#fff;color:#8a5a2b;font:inherit;cursor:pointer}
+.bar button.on{background:#8a5a2b;color:#fff}
+main{max-width:1100px;margin:0 auto;padding:0 12px 40px}
+h2{margin:26px 4px 6px;color:#5a3a1a}h3{margin:14px 6px 4px;color:#7a5530;font-size:1rem}
+.note{margin:4px 6px 8px;color:#6b5a48;font-style:italic}
+.shelf{display:flex;flex-wrap:wrap;align-items:flex-end;gap:0 12px;padding:0 14px;
+ background:repeating-linear-gradient(#0000 0 158px,#8b5a2b 158px 162px,#6e4320 162px 174px);border-radius:4px;
+ box-shadow:inset 0 0 0 1px #0001}
+.shelf>.row-wood{display:none}
+.book{width:96px;height:174px;cursor:pointer;padding:14px 0 16px;position:relative;border:0;background:none;font:inherit;text-align:left}
+.book img,.ph{width:96px;height:144px;border-radius:2px 4px 4px 2px;box-shadow:2px 3px 6px #0005;display:block;object-fit:cover;background:#ddd}
+.ph{padding:10px 8px;color:#fff;font-size:11px;line-height:1.25;overflow:hidden;display:flex;flex-direction:column;justify-content:space-between;
+ border-left:6px solid #0003}
+.ph b{font-size:12px}.ph i{opacity:.85}
+.star{position:absolute;top:6px;right:-6px;font-size:18px;filter:drop-shadow(0 1px 1px #0006)}
+.shelfwrap{background:repeating-linear-gradient(90deg,#d9b88f,#d2ae82 40px,#dcbc94 80px);padding:8px;border-radius:6px;box-shadow:0 2px 6px #0003}
+.empty{color:#999;font-style:italic;padding:8px}
+table{width:100%;border-collapse:collapse;background:#fff;font-size:14px}td,th{text-align:left;padding:6px 8px;border-bottom:1px solid #eee}
+.tablewrap{overflow-x:auto;border-radius:8px;box-shadow:0 1px 4px #0001}
+tr.click{cursor:pointer}tr.click:hover{background:#faf3e8}
+dialog{border:0;border-radius:12px;max-width:520px;width:92vw;padding:0;box-shadow:0 10px 40px #0006}
+dialog::backdrop{background:#0007}
+.dl{display:flex;gap:16px;padding:18px}.dl img,.dl .ph{flex:none}.dl img{width:160px;height:auto;max-height:260px;object-fit:contain;background:none}
+.dl h4{margin:12px 0 2px}.dl ul{margin:0 0 6px 18px;padding:0}
+.meta{font-size:14px;color:#555;margin:4px 0}
+.x{position:absolute;right:10px;top:6px;border:0;background:none;font-size:24px;cursor:pointer}
+.vocab{padding:0 18px 18px;max-height:45vh;overflow:auto}
+@media(max-width:600px){.shelf{gap:0 8px;padding:0 8px;background:repeating-linear-gradient(#0000 0 125px,#8b5a2b 125px 129px,#6e4320 129px 141px)}.book{height:141px}.book,.book img,.ph{width:74px}.book img,.ph{height:111px}.ph{font-size:9.5px}.ph b{font-size:10px}.dl{flex-direction:column;align-items:center}}
+</style></head><body>
+<header><h1>📚 Brajesh's Bookshelf</h1><p class="sub">English reads, with a growing Spanish shelf</p></header>
+<div class="bar"><input id="q" type="search" placeholder="Search title or author…" aria-label="Search books"><button id="tg" type="button">List view</button></div>
+<main id="m"></main>
+<dialog id="dlg"></dialog>
+<script>
+const D=__DATA__,C=__COVERS__;
+const $=s=>document.querySelector(s),esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const pal=["#6b2d2d","#2d4a6b","#3d5e3a","#6b5a2d","#4a2d6b","#2d6b66","#7a3e1d","#3a3a52"];
+const col=t=>{let h=0;for(const c of t)h=(h*31+c.charCodeAt(0))|0;return pal[Math.abs(h)%pal.length]};
+const read=Object.fromEntries(D.read.map(b=>[b.title,b]));
+let list=false,q="";
+function cover(b){const u=C[b.title];
+ return u?`<img src="${u}" alt="${esc(b.title)}" loading="lazy" decoding="async" onerror="this.outerHTML=ph(${esc(JSON.stringify(b.title))})">`:ph(b.title)}
+function ph(t){const b=read[t]||D.want.find(x=>x.title==t)||{title:t};return `<div class="ph" style="background:${col(t)}"><b>${esc(b.title)}</b><i>${esc(b.author)}</i></div>`}
+const all=[];
+function key(sec,b){const id=all.length;all.push({sec,b});return id}
+function match(b){return !q||(b.title+" "+(b.author||"")).toLowerCase().includes(q)}
+function shelf(items){const v=items.filter(x=>match(x.b));
+ return v.length?`<div class="shelfwrap"><div class="shelf">${v.map(x=>`<button class="book" data-i="${x.id}" title="${esc(x.b.title)}">${cover(x.b)}${x.star?'<span class="star">⭐</span>':""}</button>`).join("")}</div></div>`:'<p class="empty">No matches.</p>'}
+function table(cols,items){const v=items.filter(x=>match(x.b));
+ return v.length?`<div class="tablewrap"><table><tr>${cols.map(c=>`<th>${c[0]}</th>`).join("")}</tr>${v.map(x=>`<tr class="click" data-i="${x.id}">${cols.map(c=>`<td>${esc(c[1](x))}</td>`).join("")}</tr>`).join("")}</table></div>`:'<p class="empty">No matches.</p>'}
+const F=D.fav.map(b=>({id:key("Favorite Books",read[b.title]||b),b:read[b.title]||b,star:true,n:b.n}));
+const W=D.want.map(b=>({id:key("Want to Read",b),b,n:b.n}));
+const R=D.read.map(b=>({id:key("Read Books",b),b,star:b.star,n:b.n}));
+const N=D.notliked.map(b=>({id:key("Books Not Liked",b),b,n:b.n}));
+const yr=b=>{const m=(b.date||"").match(/\d{4}/);return m?m[0]:""};
+function render(){let h="";const st=x=>x.star?"⭐ ":"";
+ if(list){
+  h+=`<h2>⭐ Favorite Books</h2>`+table([["#",x=>x.n],["Title",x=>x.b.title],["Author",x=>x.b.author]],F);
+  h+=`<h2>Want to Read</h2>`+table([["#",x=>x.n],["Title",x=>x.b.title],["Author",x=>x.b.author],["Notes",x=>x.b.notes]],W)+`<p class="note">${esc(D.wantNote)}</p>`;
+  h+=`<h2>Read Books</h2>`+table([["#",x=>x.n],["Date",x=>x.b.date],["Title",x=>st(x)+x.b.title],["Author",x=>x.b.author],["Language",x=>x.b.lang],["Notes",x=>x.b.notes]],R);
+ }else{
+  h+=`<h2>⭐ Favorite Books</h2>`+shelf(F);
+  h+=`<h2>Want to Read</h2>`+shelf(W)+`<p class="note">${esc(D.wantNote)}</p>`;
+  h+=`<h2>Read Books</h2>`;const g={};R.forEach(x=>{const y=yr(x.b)||"Undated";(g[y]=g[y]||[]).push(x)});
+  for(const y of Object.keys(g).sort((a,b)=>a=="Undated"?1:b=="Undated"?-1:b-a)){const v=g[y].filter(x=>match(x.b));if(v.length)h+=`<h3>${y} <small>(${v.length})</small></h3>`+shelf(v)}
+ }
+ h+=`<h2>Books Not Liked</h2>`+(N.length?(list?table([["#",x=>x.n],["Title",x=>x.b.title],["Author",x=>x.b.author]],N):shelf(N)):'<p class="empty">Nothing yet.</p>');
+ $("#m").innerHTML=h}
+function open_(i){const {sec,b}=all[i],v=D.vocab[b.title];
+ const row=(k,val)=>val?`<p class="meta"><b>${k}:</b> ${esc(val)}</p>`:"";
+ $("#dlg").innerHTML=`<button class="x" aria-label="Close" onclick="dlg.close()">×</button><div class="dl">${cover(b)}<div><h3 style="margin:0 0 6px">${b.star||sec=="Favorite Books"?"⭐ ":""}${esc(b.title)}</h3>
+ ${row("Author",b.author)}${row("Shelf",sec)}${row("Date",b.date)}${row("Language",b.lang)}${row("Notes",b.notes)}</div></div>
+ ${v?`<div class="vocab"><b>📖 Vocabulary to prepare</b>${v}</div>`:""}`;$("#dlg").showModal()}
+$("#m").addEventListener("click",e=>{const t=e.target.closest("[data-i]");if(t)open_(+t.dataset.i)});
+$("#dlg").addEventListener("click",e=>{if(e.target.id=="dlg")e.target.close()});
+let tm;$("#q").addEventListener("input",e=>{clearTimeout(tm);tm=setTimeout(()=>{q=e.target.value.trim().toLowerCase();render()},120)});
+$("#tg").onclick=()=>{list=!list;$("#tg").textContent=list?"Shelf view":"List view";$("#tg").classList.toggle("on",list);render()};
+render();
+</script></body></html>
