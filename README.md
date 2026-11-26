@@ -369,7 +369,7 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 304 | Jan 6, 2009 | Crucial Conversations: Tools for Talking When Stakes Are High | Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler | English |  |
 | 305 | Dec 19, 2008 | Weber's Real Grilling | Jamie Purviance | English |  |
 | 306 | Dec 19, 2008 | The Multi-Orgasmic Couple | Mantak Chia, Maneewan Chia, Douglas Abrams, Rachel Carlton Abrams | English |  |
-| 307 | Nov 11, 2008 | Stronger Abs and Back: 165 Exercises to Build Your Center of Power | Dennis Brown | English |  |
+| 307 | Nov 11, 2008 | Stronger Abs and Back: 165 Exercises to Build Your Center of Power | Dean Brittenham, Greg Brittenham | English |  |
 | 308 | Nov 11, 2008 | 7 Steps to a Pain-Free Life: How to Rapidly Relieve Back and Neck Pain | Robin McKenzie | English |  |
 | 309 | Nov 9, 2008 | Strength Training Anatomy | Frédéric Delavier | English |  |
 | 310 | Nov 9, 2008 | Total Immersion: The Revolutionary Way to Swim Better, Faster, and Easier | Terry Laughlin | English |  |
@@ -451,7 +451,7 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 386 | May 27, 2005 | India Unbound: The Social and Economic Revolution from Independence to the Global Information Age | Gurcharan Das | English |  |
 | 387 | Sep 8, 2004 | Medical Acronyms, Eponyms, Mnemonics (Pocket Brain) | Kimberly N. Jones | English |  |
 | 388 | Aug 17, 2004 | Medico Mnemonica: A Collection of Fun, Ribald, Irreverent and Quite Witty Mnemonics for Medical Students | E. S. Marlowe | English |  |
-| 389 | Aug 4, 2004 | The Linux Cookbook: Tips and Techniques for Everyday Use | Carla Schroder | English |  |
+| 389 | Aug 4, 2004 | The Linux Cookbook: Tips and Techniques for Everyday Use | Michael Stutz | English |  |
 | 390 | Aug 2, 2004 | Visual Mnemonics for Physiology and Related Anatomy | Laurie L. Marbas, Erin Case | English |  |
 | 391 | Aug 2, 2004 | Linux Apache Web Server Administration | Charles Aulds | English |  |
 | 392 | May 5, 2004 | Animal Farm | George Orwell | English |  |
