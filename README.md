@@ -468,6 +468,7 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 403 |  | Sapiens | Yuval Noah Harari | English |  |
 | 404 |  | Juan Salvador Gaviota | Richard Bach | Spanish |  |
 | 405 |  | Oxford French Cartoon-Strip Vocabulary Builder |  | French |  |
+| 406 |  | King Solomon's Mines | H. Rider Haggard | English |  |
 
 ## Books Not Liked
 
