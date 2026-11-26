@@ -71,20 +71,20 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 6 | Jun 1, 2024 | The Personal MBA | Josh Kaufman | English |  |
 | 7 | May 5, 2024 | ⭐ Brave New World | Aldous Huxley | English |  |
 | 8 | April 19, 2024 | How to Solve All Your Money Problems Forever: Creating a Positive Flow of Money Into Your Life | Victor Boc | English |  |
-| 9 | Apr 18, 2024 | Dating Essentials for Men: Frequently Asked Questions |  | English |  |
-| 10 | Mar 2, 2024 | The Conscious Sexual Self Workbook |  | English |  |
+| 9 | Apr 18, 2024 | Dating Essentials for Men: Frequently Asked Questions | Robert Glover | English |  |
+| 10 | Mar 2, 2024 | The Conscious Sexual Self Workbook | Melissa Jebian Fritchle | English |  |
 | 11 | Jan 26, 2024 | Women | Charles Bukowski | English |  |
 | 12 | January 25, 2024 | Factotum | Charles Bukowski | English |  |
 | 13 | Jan 25, 2024 | Pulp | Charles Bukowski | English |  |
 | 14 | Dec 7, 2023 | Atomic Habits | James Clear | English |  |
-| 15 | Nov 21, 2023 | Dating Essentials for Men: The Only Dating Guide You Will Ever Need |  | English |  |
+| 15 | Nov 21, 2023 | Dating Essentials for Men: The Only Dating Guide You Will Ever Need | Robert Glover | English |  |
 | 16 | November 15, 2023 | ⭐ Battle Circle | Piers Anthony | English |  |
 | 17 | October 26, 2023 | The Titan's Curse (Percy Jackson and the Olympians, Book 3) | Rick Riordan | English |  |
 | 18 | October 19, 2023 | The Story of My Life | Giacomo Casanova | English |  |
 | 19 | August 26, 2023 | ⭐ Radical Honesty: How to Transform Your Life by Telling the Truth | Brad Blanton | English |  |
 | 20 | August 26, 2023 | The Bhagavad Gita: A Walkthrough for Westerners | Jack Hawley | English |  |
 | 21 | July 21, 2023 | Fear of Flying | Erica Jong | English |  |
-| 22 | Jun 26, 2023 | 40 and So Free: From Shadow to Light |  | English |  |
+| 22 | Jun 26, 2023 | 40 and So Free: From Shadow to Light | Sonyah Tabarin | English |  |
 | 23 | June 15, 2023 | Middlesex | Jeffrey Eugenides | English |  |
 | 24 | June 15, 2023 | Fanny Hill: Or, Memoirs of a Woman of Pleasure | John Cleland | English |  |
 | 25 | June 15, 2023 | Sputnik Sweetheart | Haruki Murakami | English |  |
@@ -98,21 +98,21 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 33 | January 21, 2023 | Just Hit Send: A Journey to Freedom | Jody Vehr | English |  |
 | 34 | January 21, 2023 | Loving What Is: Four Questions That Can Change Your Life | Byron Katie, Stephen Mitchell | English |  |
 | 35 | January 21, 2023 | Decisive: How to Make Better Choices in Life and Work | Chip Heath, Dan Heath | English |  |
-| 36 | Jan 16, 2023 | The Ultimate Coach |  | English |  |
-| 37 | Jan 9, 2023 | A Great Healing: The Age of Compassion Is Upon Us |  | English |  |
+| 36 | Jan 16, 2023 | The Ultimate Coach | Amy Hardison, Alan D. Thompson | English |  |
+| 37 | Jan 9, 2023 | A Great Healing: The Age of Compassion Is Upon Us | John C. Davis | English |  |
 | 38 | Dec 26, 2022 | The Science of Storytelling: Why Stories Make Us Human and How to Tell Them Better | Will Storr | English |  |
 | 39 | November 25, 2022 | The Woman in White | Wilkie Collins | English |  |
-| 40 | Nov 21, 2022 | The Reuniting of Two Past Lives: & The Unveiling of the 12 Sacred Lessons |  | English |  |
+| 40 | Nov 21, 2022 | The Reuniting of Two Past Lives: & The Unveiling of the 12 Sacred Lessons | Louise M. Gomez, Lynn J. Everard | English |  |
 | 41 | November 11, 2022 | Magic of NLP Demystified: A Pragmatic Guide to Communication & Change | Byron Lewis, Frank Pucelik | English |  |
 | 42 | November 11, 2022 | Cheiro's Complete Palmistry | Cheiro | English |  |
 | 43 | November 8, 2022 | The Art of Seduction | Robert Greene | English |  |
 | 44 | November 8, 2022 | The Game: Penetrating the Secret Society of Pickup Artists | Neil Strauss | English |  |
 | 45 | November 8, 2022 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | English |  |
-| 46 | October 12, 2022 | 1001 Smartest Things Ever Said |  | English |  |
+| 46 | October 12, 2022 | 1001 Smartest Things Ever Said | Steven D. Price | English |  |
 | 47 | Oct 7, 2022 | Adam Heller's Zero Pain Now | Adam Heller | English |  |
 | 48 | September 7, 2022 | ⭐ Thinking, Fast and Slow | Daniel Kahneman | English |  |
 | 49 | August 21, 2022 | Split-Second Persuasion: The Ancient Art and New Science of Changing Minds | Kevin Dutton | English |  |
-| 50 | Jul 25, 2022 | All Rise: Adult Edition |  | English |  |
+| 50 | Jul 25, 2022 | All Rise: Adult Edition | Alexandra Andrieș | English |  |
 | 51 | Jun 21, 2022 | The Art of People | Dave Kerpen | English |  |
 | 52 | March 22, 2022 | Stumbling on Happiness | Daniel Gilbert | English |  |
 | 53 | March 22, 2022 | How to Become a Rainmaker: The Rules for Getting and Keeping Customers and Clients | Jeffrey J. Fox | English |  |
@@ -121,14 +121,14 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 56 | January 16, 2022 | ⭐ The Wisdom of Insecurity | Alan Watts | English |  |
 | 57 | December 17, 2021 | Freakonomics: A Rogue Economist Explores the Hidden Side of Everything | Steven D. Levitt, Stephen J. Dubner | English |  |
 | 58 | November 26, 2021 | The Black Swan: The Impact of the Highly Improbable | Nassim Nicholas Taleb | English |  |
-| 59 | Oct 29, 2021 | The Forgiveness Handbook: A Simple Guide to Freedom of the Mind and Heart |  | English |  |
+| 59 | Oct 29, 2021 | The Forgiveness Handbook: A Simple Guide to Freedom of the Mind and Heart | Clifford B. Edwards | English |  |
 | 60 | October 20, 2021 | ⭐ Never Split the Difference: Negotiating as If Your Life Depended on It | Chris Voss, Tahl Raz | English |  |
 | 61 | October 8, 2021 | The Power of Moments: Why Certain Experiences Have Extraordinary Impact | Chip Heath, Dan Heath | English |  |
 | 62 | October 8, 2021 | Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days | Jake Knapp, John Zeratsky, Braden Kowitz | English |  |
 | 63 | October 4, 2021 | Yes!: 50 Scientifically Proven Ways to Be Persuasive | Noah J. Goldstein, Steve J. Martin, Robert Cialdini | English |  |
 | 64 | September 21, 2021 | Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships | Christopher Ryan, Cacilda Jethá | English |  |
-| 65 | Sep 15, 2021 | The Illusion of Knowledge: The Paradigm Shift in Aging Research That Shows the Way to Human Rejuvenation |  | English |  |
-| 66 | Sep 11, 2021 | From Triggered to Tranquil: How Self-Compassion and Mindful Presence Can Transform Relationship Conflicts and Heal Childhood Wounds |  | English |  |
+| 65 | Sep 15, 2021 | The Illusion of Knowledge: The Paradigm Shift in Aging Research That Shows the Way to Human Rejuvenation | Harold Katcher | English |  |
+| 66 | Sep 11, 2021 | From Triggered to Tranquil: How Self-Compassion and Mindful Presence Can Transform Relationship Conflicts and Heal Childhood Wounds | Susan Campbell | English |  |
 | 67 | August 25, 2021 | The Kite Runner | Khaled Hosseini | English |  |
 | 68 | August 7, 2021 | The Stupidest Things Ever Said by Politicians | Ross Petras, Kathryn Petras | English |  |
 | 69 | August 7, 2021 | Influence: The Psychology of Persuasion | Robert Cialdini | English |  |
@@ -221,7 +221,7 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 156 | December 28, 2019 | The Spirit of NLP: The Process, Meaning and Criteria for Mastering NLP | L. Michael Hall | English |  |
 | 157 | December 28, 2019 | The Untethered Soul: The Journey Beyond Yourself | Michael A. Singer | English |  |
 | 158 | Dec 24, 2019 | Acres of Diamonds | Russell H. Conwell | English |  |
-| 159 | Nov 12, 2019 | The Meaning of Truth: Embrace Your Truth. Create Your Life. |  | English |  |
+| 159 | Nov 12, 2019 | The Meaning of Truth: Embrace Your Truth. Create Your Life. | Nicole J. Sachs | English |  |
 | 160 | Oct 2, 2019 | DotCom Secrets: The Underground Playbook for Growing Your Company Online | Russell Brunson | English |  |
 | 161 | September 21, 2019 | Synchrodestiny: Harnessing the Infinite Power of Coincidence to Create Miracles | Deepak Chopra | English |  |
 | 162 | September 21, 2019 | Quantum Healing: Exploring the Frontiers of Mind/Body Medicine | Deepak Chopra | English |  |
@@ -250,11 +250,11 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 185 | January 29, 2019 | If the Buddha Dated: A Handbook for Finding Love on a Spiritual Path | Charlotte S. Kasl | English |  |
 | 186 | January 29, 2019 | Wisdom from the Four Agreements | Don Miguel Ruiz | English |  |
 | 187 | Dec 20, 2018 | The Way of the Superior Man | David Deida | English |  |
-| 188 | Oct 5, 2018 | Power Speaking: The Art of the Exceptional Public Speaker |  | English |  |
+| 188 | Oct 5, 2018 | Power Speaking: The Art of the Exceptional Public Speaker | Achim Nowak | English |  |
 | 189 | Oct 4, 2018 | Getting Real: Ten Truth Skills You Need to Live an Authentic Life | Susan Campbell | English |  |
-| 190 | May 25, 2018 | The World of Indian Civilization |  | English |  |
-| 191 | Dec 21, 2017 | Epic Sexy You: No Limits. No Rules |  | English |  |
-| 192 | Nov 6, 2017 | Unbeatable: Recreate Your Life As Extraordinary Using the Secrets of a Navy SEAL |  | English |  |
+| 190 | May 25, 2018 | The World of Indian Civilization | Gustave Le Bon | English |  |
+| 191 | Dec 21, 2017 | Epic Sexy You: No Limits. No Rules | Morgan E. Field | English |  |
+| 192 | Nov 6, 2017 | Unbeatable: Recreate Your Life As Extraordinary Using the Secrets of a Navy SEAL | Jack Schropp | English |  |
 | 193 | Jul 25, 2017 | A Mind of Its Own: A Cultural History of the Penis | David M. Friedman | English |  |
 | 194 | Jun 22, 2017 | Pulling Your Own Strings | Wayne W. Dyer | English |  |
 | 195 | Jun 21, 2017 | Mating in Captivity: Unlocking Erotic Intelligence | Esther Perel | English |  |
@@ -265,9 +265,9 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 200 | Feb 15, 2017 | The Best American Erotica 2005 | Susie Bright (ed.) | English |  |
 | 201 | Feb 15, 2017 | The Best American Erotica 1997 | Susie Bright (ed.) | English |  |
 | 202 | Feb 15, 2017 | The Best American Erotica 2003 | Susie Bright (ed.) | English |  |
-| 203 | Dec 5, 2016 | The United States Constitution: What It Says, What It Means |  | English |  |
-| 204 | Nov 23, 2016 | My Cancer Is Me |  | English |  |
-| 205 | Nov 22, 2016 | Marijuana Killed My Cancer and Is Keeping Me Cancer Free |  | English |  |
+| 203 | Dec 5, 2016 | The United States Constitution: What It Says, What It Means | JusticeLearning.org | English |  |
+| 204 | Nov 23, 2016 | My Cancer Is Me | Vijay Bhat, Nina Bhat | English |  |
+| 205 | Nov 22, 2016 | Marijuana Killed My Cancer and Is Keeping Me Cancer Free | Erika M. Karohs | English |  |
 | 206 | Sep 9, 2016 | The Best of Best American Erotica 2008 | Susie Bright (ed.) | English |  |
 | 207 | Sep 9, 2016 | The Best American Erotica 2000 | Susie Bright (ed.) | English |  |
 | 208 | Sep 9, 2016 | The Best American Erotica 1993 | Susie Bright (ed.) | English |  |
@@ -276,7 +276,7 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 211 | Jun 17, 2016 | Fifty Shades of Grey | E. L. James | English |  |
 | 212 | Jan 31, 2016 | Short-Cut Math | Gerard W. Kelly | English |  |
 | 213 | Jan 31, 2016 | Secrets of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks | Arthur Benjamin, Michael Shermer | English |  |
-| 214 | Jan 12, 2016 | Open Her: Activate 7 Masculine Powers to Arouse Your Woman's Love & Desire |  | English |  |
+| 214 | Jan 12, 2016 | Open Her: Activate 7 Masculine Powers to Arouse Your Woman's Love & Desire | Karen Brody | English |  |
 | 215 | Nov 9, 2015 | Reinventing Organizations | Frederic Laloux | English |  |
 | 216 | Aug 7, 2015 | Cuentos de Eva Luna | Isabel Allende | Spanish |  |
 | 217 | Jul 24, 2015 | The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It | Michael E. Gerber | English |  |
@@ -287,26 +287,26 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 222 | Dec 3, 2014 | Crónica de una muerte anunciada | Gabriel García Márquez | Spanish |  |
 | 223 | Oct 1, 2014 | The Social Conquest of Earth | Edward O. Wilson | English |  |
 | 224 | Mar 5, 2014 | The Alabaster Girl | Zan Perrion | English |  |
-| 225 | Sep 3, 2013 | Justice Denied: The Journey of a Judge |  | English |  |
+| 225 | Sep 3, 2013 | Justice Denied: The Journey of a Judge | Leslie Abeysekera | English |  |
 | 226 | Sep 3, 2013 | Time Enough for Love | Robert A. Heinlein | English |  |
 | 227 | Sep 3, 2013 | A House for Mr. Biswas | V. S. Naipaul | English |  |
-| 228 | Jul 29, 2013 | Seeds of Plenty |  | English |  |
+| 228 | Jul 29, 2013 | Seeds of Plenty | Jennifer Juo | English |  |
 | 229 | Mar 17, 2013 | Dr. Seth's Love Prescription: Overcome Relationship Repetition Syndrome and Find the Love You Deserve | Seth Meyers | English |  |
 | 230 | Jun 7, 2012 | Fables | Jean de La Fontaine | French |  |
 | 231 | May 29, 2012 | Tintin au Congo | Hergé | French |  |
 | 232 | Sep 24, 2011 | Notes from Underground | Fyodor Dostoevsky | English |  |
-| 233 | Sep 24, 2011 | Stalin: A Biography |  | English |  |
+| 233 | Sep 24, 2011 | Stalin: A Biography | Robert Service | English |  |
 | 234 | Sep 24, 2011 | Leonardo: The Artist and the Man | Serge Bramly | English |  |
-| 235 | Sep 24, 2011 | Lenin: A Biography |  | English |  |
+| 235 | Sep 24, 2011 | Lenin: A Biography | Robert Service | English |  |
 | 236 | Sep 13, 2011 | Umrao Jan Ada | Mirza Hadi Ruswa | English |  |
 | 237 | Sep 13, 2011 | Fight Club | Chuck Palahniuk | English |  |
 | 238 | Sep 13, 2011 | Forks Over Knives: The Plant-Based Way to Health | Gene Stone (ed.) | English |  |
 | 239 | Sep 6, 2011 | The Spectrum | Dean Ornish | English |  |
 | 240 | Sep 6, 2011 | Prevent and Reverse Heart Disease | Caldwell B. Esselstyn Jr. | English |  |
 | 241 | Aug 14, 2011 | Julius Caesar | William Shakespeare | English |  |
-| 242 | Aug 14, 2011 | The Manual: What Women Want and How to Give It to Them |  | English |  |
+| 242 | Aug 14, 2011 | The Manual: What Women Want and How to Give It to Them | W. Anton | English |  |
 | 243 | Jun 28, 2011 | Napoleon |  | English |  |
-| 244 | Jun 14, 2011 | The Great Mango Book: A Guide with Recipes |  | English |  |
+| 244 | Jun 14, 2011 | The Great Mango Book: A Guide with Recipes | Allen Susser | English |  |
 | 245 | Jun 14, 2011 | Beyond Einstein: The Cosmic Quest for the Theory of the Universe | Michio Kaku | English |  |
 | 246 | May 13, 2011 | John Carter of Mars, Vol. 1: A Princess of Mars / The Gods of Mars | Edgar Rice Burroughs | English |  |
 | 247 | May 13, 2011 | The Moor's Last Sigh | Salman Rushdie | English |  |
@@ -314,27 +314,27 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 249 | Oct 21, 2010 | Mother Teresa: A Complete Authorized Biography | Kathryn Spink | English |  |
 | 250 | Oct 21, 2010 | Say You're One of Them | Uwem Akpan | English |  |
 | 251 | Oct 21, 2010 | No Greater Love | Mother Teresa | English |  |
-| 252 | Aug 13, 2010 | Quote Junkie: Motivational Edition (Volume 2) |  | English |  |
+| 252 | Aug 13, 2010 | Quote Junkie: Motivational Edition (Volume 2) | Hagopian Institute | English |  |
 | 253 | Jul 26, 2010 | The World As I See It | Albert Einstein | English |  |
 | 254 | Jul 26, 2010 | Einstein: His Life and Universe | Walter Isaacson | English |  |
-| 255 | Jul 26, 2010 | Einstein: A Biography |  | English |  |
+| 255 | Jul 26, 2010 | Einstein: A Biography | Jürgen Neffe | English |  |
 | 256 | Jul 26, 2010 | The Satanic Verses | Salman Rushdie | English |  |
 | 257 | Jul 25, 2010 | Out of My Later Years | Albert Einstein | English |  |
 | 258 | Jul 13, 2010 | Midnight's Children | Salman Rushdie | English |  |
 | 259 | Jul 6, 2010 | Unto This Last | John Ruskin | English |  |
 | 260 | Jul 6, 2010 | Catch-22 | Joseph Heller | English |  |
-| 261 | Jun 9, 2010 | Quote Junkie: Enormous Quote Book |  | English |  |
+| 261 | Jun 9, 2010 | Quote Junkie: Enormous Quote Book | Hagopian Institute | English |  |
 | 262 | May 29, 2010 | The Upanishads | Eknath Easwaran (trans.) | English |  |
 | 263 | May 29, 2010 | The Qur'an | M. A. S. Abdel Haleem (trans.) | English |  |
 | 264 | May 29, 2010 | The Dhammapada | Eknath Easwaran (trans.) | English |  |
 | 265 | May 29, 2010 | The Bhagavad Gita | Eknath Easwaran (trans.) | English |  |
-| 266 | May 13, 2010 | Mankind's Greatest Quotes |  | English |  |
+| 266 | May 13, 2010 | Mankind's Greatest Quotes | Patty Crowe | English |  |
 | 267 | May 9, 2010 | Florida Roadkill | Tim Dorsey | English |  |
 | 268 | May 9, 2010 | Hind Swaraj or Indian Home Rule | Mahatma Gandhi | English |  |
 | 269 | May 9, 2010 | Non-Violent Resistance (Satyagraha) | Mahatma Gandhi | English |  |
 | 270 | May 6, 2010 | Satyagraha in South Africa | Mahatma Gandhi | English |  |
 | 271 | Mar 10, 2010 | The Kingdom of God Is Within You | Leo Tolstoy | English |  |
-| 272 | Feb 22, 2010 | Alexander the Great: Son of the Gods |  | English |  |
+| 272 | Feb 22, 2010 | Alexander the Great: Son of the Gods | Alan Fildes, Joann Fletcher | English |  |
 | 273 | Feb 22, 2010 | An Autobiography: The Story of My Experiments with Truth | Mahatma Gandhi | English |  |
 | 274 | Feb 22, 2010 | The Essential Gandhi: An Anthology of His Writings on His Life, Work, and Ideas | Mahatma Gandhi (Louis Fischer, ed.) | English |  |
 | 275 | Feb 14, 2010 | Born to Run | Christopher McDougall | English |  |
@@ -344,24 +344,24 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 279 | Dec 18, 2009 | Teach Yourself Beginner's Hindi Script | Rupert Snell | English |  |
 | 280 | Nov 30, 2009 | 177 Mental Toughness Secrets of the World Class | Steve Siebold | English |  |
 | 281 | Nov 19, 2009 | Shantaram | Gregory David Roberts | English |  |
-| 282 | Nov 18, 2009 | Conquer Back and Neck Pain: Walk It Off! |  | English |  |
+| 282 | Nov 18, 2009 | Conquer Back and Neck Pain: Walk It Off! | Mark D. Brown | English |  |
 | 283 | Nov 17, 2009 | How You Stand, How You Move, How You Live: Learning the Alexander Technique | Missy Vineyard | English |  |
 | 284 | Nov 14, 2009 | Improving Your Storytelling | Doug Lipman | English |  |
 | 285 | Nov 14, 2009 | Telling Your Own Stories | Donald Davis | English |  |
-| 286 | Nov 14, 2009 | Crash Course in Storytelling |  | English |  |
+| 286 | Nov 14, 2009 | Crash Course in Storytelling | Kendall Haven, MaryGay Ducey | English |  |
 | 287 | Oct 6, 2009 | 8 Steps to a Pain-Free Back | Esther Gokhale | English |  |
 | 288 | Sep 16, 2009 | Resume Magic: Trade Secrets of a Professional Resume Writer | Susan Britton Whitcomb | English |  |
 | 289 | Sep 7, 2009 | Good Night, Gorilla | Peggy Rathmann | English |  |
 | 290 | Sep 7, 2009 | Library Lion | Michelle Knudsen | English |  |
-| 291 | Sep 2, 2009 | Stikky Stock Charts: Learn the 8 Major Stock Chart Patterns Used by Professionals and How to Interpret Them |  | English |  |
+| 291 | Sep 2, 2009 | Stikky Stock Charts: Learn the 8 Major Stock Chart Patterns Used by Professionals and How to Interpret Them | Laurence Holt | English |  |
 | 292 | May 13, 2009 | Accents: A Manual for Actors | Robert Blumenfeld | English |  |
 | 293 | Apr 22, 2009 | A Course in Miracles | Helen Schucman | English |  |
 | 294 | Apr 11, 2009 | Conversationally Speaking: Tested New Ways to Increase Your Personal and Social Effectiveness | Alan Garner | English |  |
 | 295 | Apr 3, 2009 | Island | Aldous Huxley | English |  |
 | 296 | Mar 13, 2009 | The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal | Jim Loehr, Tony Schwartz | English |  |
-| 297 | Mar 12, 2009 | Florida's Birds: A Field Guide and Reference |  | English |  |
+| 297 | Mar 12, 2009 | Florida's Birds: A Field Guide and Reference | Herbert W. Kale II, David S. Maehr | English |  |
 | 298 | Mar 12, 2009 | Our Inner Ape | Frans de Waal | English |  |
-| 299 | Mar 10, 2009 | Everglades Birds: An Introduction to Familiar Species |  | English |  |
+| 299 | Mar 10, 2009 | Everglades Birds: An Introduction to Familiar Species | James Kavanagh | English |  |
 | 300 | Mar 9, 2009 | The Power of Now: A Guide to Spiritual Enlightenment | Eckhart Tolle | English |  |
 | 301 | Mar 9, 2009 | Brag!: The Art of Tooting Your Own Horn without Blowing It | Peggy Klaus | English |  |
 | 302 | Feb 14, 2009 | The Little Prince | Antoine de Saint-Exupéry | English |  |
@@ -388,7 +388,7 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 323 | Jun 23, 2008 | The War of Art: Break Through the Blocks and Win Your Inner Creative Battles | Steven Pressfield | English |  |
 | 324 | Jun 15, 2008 | I Am That: Talks with Sri Nisargadatta | Nisargadatta Maharaj | English |  |
 | 325 | May 30, 2008 | How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships | Leil Lowndes | English |  |
-| 326 | May 30, 2008 | NLP: The New Technology of Achievement |  | English |  |
+| 326 | May 30, 2008 | NLP: The New Technology of Achievement | Steve Andreas, Charles Faulkner | English |  |
 | 327 | May 30, 2008 | The Definitive Book of Body Language | Allan Pease, Barbara Pease | English |  |
 | 328 | May 18, 2008 | The Mystery Method: How to Get Beautiful Women Into Bed | Mystery | English |  |
 | 329 | May 18, 2008 | The Myth of Male Power | Warren Farrell | English |  |
@@ -402,7 +402,7 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 337 | Feb 6, 2008 | I Can't Believe I'm Buying This Book: A Commonsense Guide to Successful Internet Dating | Evan Marc Katz | English |  |
 | 338 | Feb 6, 2008 | The Wandering Fire (The Fionavar Tapestry, Book 2) | Guy Gavriel Kay | English |  |
 | 339 | Feb 6, 2008 | The Darkest Road (The Fionavar Tapestry, Book 3) | Guy Gavriel Kay | English |  |
-| 340 | Feb 6, 2008 | Online Dating for Dummies |  | English |  |
+| 340 | Feb 6, 2008 | Online Dating for Dummies | Judith Silverstein, Michael Lasky | English |  |
 | 341 | Jan 23, 2008 | Sailing to Sarantium | Guy Gavriel Kay | English |  |
 | 342 | Jan 21, 2008 | The Comic Toolbox: How to Be Funny Even If You're Not | John Vorhaus | English |  |
 | 343 | Jan 20, 2008 | The Comedy Bible: From Stand-up to Sitcom | Judy Carter | English |  |
@@ -420,10 +420,10 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 355 | Aug 24, 2007 | The Lions of Al-Rassan | Guy Gavriel Kay | English |  |
 | 356 | Aug 24, 2007 | The Doors of His Face, the Lamps of His Mouth | Roger Zelazny | English |  |
 | 357 | Aug 21, 2007 | Pandora's Star | Peter F. Hamilton | English |  |
-| 358 | Aug 19, 2007 | Manna from Heaven |  | English |  |
+| 358 | Aug 19, 2007 | Manna from Heaven | Roger Zelazny | English |  |
 | 359 | Jul 23, 2007 | The Alchemist | Paulo Coelho | English |  |
 | 360 | Jul 23, 2007 | The Moonstone | Wilkie Collins | English |  |
-| 361 | Jul 23, 2007 | How to Succeed with Women |  | English |  |
+| 361 | Jul 23, 2007 | How to Succeed with Women | Ron Louis, David Copeland | English |  |
 | 362 | Apr 25, 2007 | Mindfulness in Plain English | Bhante Henepola Gunaratana | English |  |
 | 363 | Apr 25, 2007 | Teach Yourself to Meditate in 10 Simple Lessons | Eric Harrison | English |  |
 | 364 | Mar 15, 2007 | A Streetcar Named Desire | Tennessee Williams | English |  |
@@ -445,20 +445,20 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 380 | Sep 21, 2006 | Confessions of an Ugly Stepsister | Gregory Maguire | English |  |
 | 381 | Sep 3, 2006 | Wicked: The Life and Times of the Wicked Witch of the West | Gregory Maguire | English |  |
 | 382 | Sep 3, 2006 | The Namesake | Jhumpa Lahiri | English |  |
-| 383 | Apr 16, 2006 | Your Brilliant Wedding Speech |  | English |  |
-| 384 | Apr 16, 2006 | Making a Wedding Speech |  | English |  |
-| 385 | Apr 16, 2006 | Be the Best, Best Man and Make a Stunning Speech! |  | English |  |
+| 383 | Apr 16, 2006 | Your Brilliant Wedding Speech | Helen Smith | English |  |
+| 384 | Apr 16, 2006 | Making a Wedding Speech | John Bowden | English |  |
+| 385 | Apr 16, 2006 | Be the Best, Best Man and Make a Stunning Speech! | Phillip Khan-Panni | English |  |
 | 386 | May 27, 2005 | India Unbound: The Social and Economic Revolution from Independence to the Global Information Age | Gurcharan Das | English |  |
-| 387 | Sep 8, 2004 | Medical Acronyms, Eponyms, Mnemonics (Pocket Brain) |  | English |  |
-| 388 | Aug 17, 2004 | Medico Mnemonica: A Collection of Fun, Ribald, Irreverent and Quite Witty Mnemonics for Medical Students |  | English |  |
+| 387 | Sep 8, 2004 | Medical Acronyms, Eponyms, Mnemonics (Pocket Brain) | Kimberly N. Jones | English |  |
+| 388 | Aug 17, 2004 | Medico Mnemonica: A Collection of Fun, Ribald, Irreverent and Quite Witty Mnemonics for Medical Students | E. S. Marlowe | English |  |
 | 389 | Aug 4, 2004 | The Linux Cookbook: Tips and Techniques for Everyday Use | Carla Schroder | English |  |
-| 390 | Aug 2, 2004 | Visual Mnemonics for Physiology and Related Anatomy |  | English |  |
+| 390 | Aug 2, 2004 | Visual Mnemonics for Physiology and Related Anatomy | Laurie L. Marbas, Erin Case | English |  |
 | 391 | Aug 2, 2004 | Linux Apache Web Server Administration | Charles Aulds | English |  |
 | 392 | May 5, 2004 | Animal Farm | George Orwell | English |  |
 | 393 | May 4, 2004 | Turn Left at Orion: A Hundred Night Sky Objects to See in a Small Telescope—and How to Find Them | Guy Consolmagno, Dan M. Davis | English |  |
-| 394 | Jul 29, 2002 | Arco PCAT |  | English |  |
+| 394 | Jul 29, 2002 | Arco PCAT | Dick R. H. Gourley, Greta A. Gourley | English |  |
 | 395 | Jul 29, 2002 | How to Play Popular Piano in 10 Easy Lessons | Norman Monath | English |  |
-| 396 | Jan 30, 2002 | Favorite Piano Classics: 83 Best-Loved Works |  | English |  |
+| 396 | Jan 30, 2002 | Favorite Piano Classics: 83 Best-Loved Works | Ronald Herder | English |  |
 | 397 | Jan 30, 2002 | I Hate Hamlet | Paul Rudnick | English |  |
 | 398 |  | ⭐ Foundation series | Isaac Asimov | English |  |
 | 399 |  | ⭐ 1984 | George Orwell | English |  |
@@ -467,7 +467,7 @@ Note: Brajesh has read one of Book bot's picks but doesn't remember which one.
 | 402 |  | Siddhartha | Hermann Hesse | English |  |
 | 403 |  | Sapiens | Yuval Noah Harari | English |  |
 | 404 |  | Juan Salvador Gaviota | Richard Bach | Spanish |  |
-| 405 |  | Oxford French Cartoon-Strip Vocabulary Builder |  | French |  |
+| 405 |  | Oxford French Cartoon-Strip Vocabulary Builder | Claire Bretécher, Marie-Hélène Corréard | French |  |
 | 406 |  | King Solomon's Mines | H. Rider Haggard | English |  |
 
 ## Books Not Liked
